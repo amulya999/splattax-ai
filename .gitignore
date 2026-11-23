@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large Datasets and Rasters (prevent accidental large git commits)
+data/satellite/raw/*.tif
+data/satellite/composites/*.tif
+data/synthetic_drone_3dgs/*.ply
+*.ply
+*.tif
+*.tiff
+*.zip
+*.tar.gz
+
+# Streamlit local state
+.streamlit/
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# PyTorch / Models
+models/weights/*.pth
+models/weights/*.pt
+*.bin
+
+# OS specific
+.DS_Store
+Thumbs.db
