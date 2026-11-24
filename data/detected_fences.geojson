@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Polygon", "coordinates": [[[80.4791, 16.5108], [80.479208, 16.5108], [80.479208, 16.510963], [80.4791, 16.510963], [80.4791, 16.5108]]] },
+      "properties": {
+        "plot_no": "U18-3A-101",
+        "survey_no": "112/2A",
+        "owner_name": "Muvva Venkateswara Rao",
+        "fencing_status": "Compliant (Within Registered Hadulu)",
+        "compliance_tier": "GREEN_COMPLIANT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Polygon", "coordinates": [[[80.479251, 16.510788], [80.479372, 16.510788], [80.479372, 16.510981], [80.479251, 16.510981], [80.479251, 16.510788]]] },
+      "properties": {
+        "plot_no": "U18-3A-102",
+        "survey_no": "112/2B",
+        "owner_name": "Chalasani Krishna Murthy",
+        "fencing_status": "Encroachment Detected (South fence +4.2 ft onto road)",
+        "compliance_tier": "RED_CRITICAL_DEVIATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Polygon", "coordinates": [[[80.479422, 16.5108], [80.479557, 16.5108], [80.479557, 16.510963], [80.479422, 16.510963], [80.479422, 16.5108]]] },
+      "properties": {
+        "plot_no": "U18-3A-103",
+        "survey_no": "448/1A",
+        "owner_name": "Kommineni Srinivasa Rao",
+        "fencing_status": "Compliant (Within Registered Hadulu)",
+        "compliance_tier": "GREEN_COMPLIANT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Polygon", "coordinates": [[[80.479611, 16.5108], [80.479724, 16.5108], [80.479724, 16.510981], [80.479611, 16.510981], [80.479611, 16.5108]]] },
+      "properties": {
+        "plot_no": "U18-3A-104",
+        "survey_no": "448/1B",
+        "owner_name": "Gogineni Lakshmi Prasanna",
+        "fencing_status": "Minor Setback Encroachment (Shed inside rear hadulu)",
+        "compliance_tier": "YELLOW_MODERATE_DEVIATION"
+      }
+    }
+  ]
+}

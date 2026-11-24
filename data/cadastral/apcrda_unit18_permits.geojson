@@ -1,0 +1,6725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46922890625001,
+              16.4983603125
+            ],
+            [
+              80.46922890625001,
+              16.499575104166667
+            ],
+            [
+              80.46829921875,
+              16.499575104166667
+            ],
+            [
+              80.46829921875,
+              16.4983603125
+            ],
+            [
+              80.46922890625001,
+              16.4983603125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0001",
+        "parcel_id": "APCRDA-U18-LPS-0001",
+        "sanctioned_date": "2021-02-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47079140625002,
+              16.4983603125
+            ],
+            [
+              80.47079140625002,
+              16.499575104166667
+            ],
+            [
+              80.46986171875001,
+              16.499575104166667
+            ],
+            [
+              80.46986171875001,
+              16.4983603125
+            ],
+            [
+              80.47079140625002,
+              16.4983603125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0002",
+        "parcel_id": "APCRDA-U18-LPS-0002",
+        "sanctioned_date": "2021-03-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47235390625,
+              16.4983603125
+            ],
+            [
+              80.47235390625,
+              16.499575104166667
+            ],
+            [
+              80.47142421875,
+              16.499575104166667
+            ],
+            [
+              80.47142421875,
+              16.4983603125
+            ],
+            [
+              80.47235390625,
+              16.4983603125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0003",
+        "parcel_id": "APCRDA-U18-LPS-0003",
+        "sanctioned_date": "2021-04-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47391640625001,
+              16.4983603125
+            ],
+            [
+              80.47391640625001,
+              16.499575104166667
+            ],
+            [
+              80.47298671875001,
+              16.499575104166667
+            ],
+            [
+              80.47298671875001,
+              16.4983603125
+            ],
+            [
+              80.47391640625001,
+              16.4983603125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0004",
+        "parcel_id": "APCRDA-U18-LPS-0004",
+        "sanctioned_date": "2021-05-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47547890625,
+              16.4983603125
+            ],
+            [
+              80.47547890625,
+              16.499575104166667
+            ],
+            [
+              80.47454921875,
+              16.499575104166667
+            ],
+            [
+              80.47454921875,
+              16.4983603125
+            ],
+            [
+              80.47547890625,
+              16.4983603125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0005",
+        "parcel_id": "APCRDA-U18-LPS-0005",
+        "sanctioned_date": "2021-06-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47704140625001,
+              16.4983603125
+            ],
+            [
+              80.47704140625001,
+              16.499575104166667
+            ],
+            [
+              80.47611171875,
+              16.499575104166667
+            ],
+            [
+              80.47611171875,
+              16.4983603125
+            ],
+            [
+              80.47704140625001,
+              16.4983603125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0006",
+        "parcel_id": "APCRDA-U18-LPS-0006",
+        "sanctioned_date": "2021-07-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47860390625,
+              16.4983603125
+            ],
+            [
+              80.47860390625,
+              16.499575104166667
+            ],
+            [
+              80.47767421875,
+              16.499575104166667
+            ],
+            [
+              80.47767421875,
+              16.4983603125
+            ],
+            [
+              80.47860390625,
+              16.4983603125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0007",
+        "parcel_id": "APCRDA-U18-LPS-0007",
+        "sanctioned_date": "2021-08-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "UNASSESSED_STRUCTURE",
+        "gt_actual_floors": "G+1",
+        "gt_actual_height_m": 6.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48016640625,
+              16.4983603125
+            ],
+            [
+              80.48016640625,
+              16.499575104166667
+            ],
+            [
+              80.47923671875,
+              16.499575104166667
+            ],
+            [
+              80.47923671875,
+              16.4983603125
+            ],
+            [
+              80.48016640625,
+              16.4983603125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0008",
+        "parcel_id": "APCRDA-U18-LPS-0008",
+        "sanctioned_date": "2021-09-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48172890625001,
+              16.4983603125
+            ],
+            [
+              80.48172890625001,
+              16.499575104166667
+            ],
+            [
+              80.48079921875001,
+              16.499575104166667
+            ],
+            [
+              80.48079921875001,
+              16.4983603125
+            ],
+            [
+              80.48172890625001,
+              16.4983603125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0009",
+        "parcel_id": "APCRDA-U18-LPS-0009",
+        "sanctioned_date": "2021-10-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48329140625,
+              16.4983603125
+            ],
+            [
+              80.48329140625,
+              16.499575104166667
+            ],
+            [
+              80.48236171875,
+              16.499575104166667
+            ],
+            [
+              80.48236171875,
+              16.4983603125
+            ],
+            [
+              80.48329140625,
+              16.4983603125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0010",
+        "parcel_id": "APCRDA-U18-LPS-0010",
+        "sanctioned_date": "2021-11-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48485390625001,
+              16.4983603125
+            ],
+            [
+              80.48485390625001,
+              16.499575104166667
+            ],
+            [
+              80.48392421875,
+              16.499575104166667
+            ],
+            [
+              80.48392421875,
+              16.4983603125
+            ],
+            [
+              80.48485390625001,
+              16.4983603125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0011",
+        "parcel_id": "APCRDA-U18-LPS-0011",
+        "sanctioned_date": "2021-12-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48641640625,
+              16.4983603125
+            ],
+            [
+              80.48641640625,
+              16.499575104166667
+            ],
+            [
+              80.48548671875,
+              16.499575104166667
+            ],
+            [
+              80.48548671875,
+              16.4983603125
+            ],
+            [
+              80.48641640625,
+              16.4983603125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0012",
+        "parcel_id": "APCRDA-U18-LPS-0012",
+        "sanctioned_date": "2021-01-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48797890625,
+              16.4983603125
+            ],
+            [
+              80.48797890625,
+              16.499575104166667
+            ],
+            [
+              80.48704921875,
+              16.499575104166667
+            ],
+            [
+              80.48704921875,
+              16.4983603125
+            ],
+            [
+              80.48797890625,
+              16.4983603125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0013",
+        "parcel_id": "APCRDA-U18-LPS-0013",
+        "sanctioned_date": "2021-02-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "UNASSESSED_STRUCTURE",
+        "gt_actual_floors": "G+1",
+        "gt_actual_height_m": 6.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48954140625,
+              16.4983603125
+            ],
+            [
+              80.48954140625,
+              16.499575104166667
+            ],
+            [
+              80.48861171875,
+              16.499575104166667
+            ],
+            [
+              80.48861171875,
+              16.4983603125
+            ],
+            [
+              80.48954140625,
+              16.4983603125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0014",
+        "parcel_id": "APCRDA-U18-LPS-0014",
+        "sanctioned_date": "2021-03-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "UNASSESSED_STRUCTURE",
+        "gt_actual_floors": "G+1",
+        "gt_actual_height_m": 6.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46922890625001,
+              16.500401979166668
+            ],
+            [
+              80.46922890625001,
+              16.501616770833333
+            ],
+            [
+              80.46829921875,
+              16.501616770833333
+            ],
+            [
+              80.46829921875,
+              16.500401979166668
+            ],
+            [
+              80.46922890625001,
+              16.500401979166668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0015",
+        "parcel_id": "APCRDA-U18-LPS-0015",
+        "sanctioned_date": "2021-04-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47079140625002,
+              16.500401979166668
+            ],
+            [
+              80.47079140625002,
+              16.501616770833333
+            ],
+            [
+              80.46986171875001,
+              16.501616770833333
+            ],
+            [
+              80.46986171875001,
+              16.500401979166668
+            ],
+            [
+              80.47079140625002,
+              16.500401979166668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0016",
+        "parcel_id": "APCRDA-U18-LPS-0016",
+        "sanctioned_date": "2021-05-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47235390625,
+              16.500401979166668
+            ],
+            [
+              80.47235390625,
+              16.501616770833333
+            ],
+            [
+              80.47142421875,
+              16.501616770833333
+            ],
+            [
+              80.47142421875,
+              16.500401979166668
+            ],
+            [
+              80.47235390625,
+              16.500401979166668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0017",
+        "parcel_id": "APCRDA-U18-LPS-0017",
+        "sanctioned_date": "2021-06-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47391640625001,
+              16.500401979166668
+            ],
+            [
+              80.47391640625001,
+              16.501616770833333
+            ],
+            [
+              80.47298671875001,
+              16.501616770833333
+            ],
+            [
+              80.47298671875001,
+              16.500401979166668
+            ],
+            [
+              80.47391640625001,
+              16.500401979166668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0018",
+        "parcel_id": "APCRDA-U18-LPS-0018",
+        "sanctioned_date": "2021-07-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47547890625,
+              16.500401979166668
+            ],
+            [
+              80.47547890625,
+              16.501616770833333
+            ],
+            [
+              80.47454921875,
+              16.501616770833333
+            ],
+            [
+              80.47454921875,
+              16.500401979166668
+            ],
+            [
+              80.47547890625,
+              16.500401979166668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0019",
+        "parcel_id": "APCRDA-U18-LPS-0019",
+        "sanctioned_date": "2021-08-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47704140625001,
+              16.500401979166668
+            ],
+            [
+              80.47704140625001,
+              16.501616770833333
+            ],
+            [
+              80.47611171875,
+              16.501616770833333
+            ],
+            [
+              80.47611171875,
+              16.500401979166668
+            ],
+            [
+              80.47704140625001,
+              16.500401979166668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0020",
+        "parcel_id": "APCRDA-U18-LPS-0020",
+        "sanctioned_date": "2021-09-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47860390625,
+              16.500401979166668
+            ],
+            [
+              80.47860390625,
+              16.501616770833333
+            ],
+            [
+              80.47767421875,
+              16.501616770833333
+            ],
+            [
+              80.47767421875,
+              16.500401979166668
+            ],
+            [
+              80.47860390625,
+              16.500401979166668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0021",
+        "parcel_id": "APCRDA-U18-LPS-0021",
+        "sanctioned_date": "2021-10-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48016640625,
+              16.500401979166668
+            ],
+            [
+              80.48016640625,
+              16.501616770833333
+            ],
+            [
+              80.47923671875,
+              16.501616770833333
+            ],
+            [
+              80.47923671875,
+              16.500401979166668
+            ],
+            [
+              80.48016640625,
+              16.500401979166668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0022",
+        "parcel_id": "APCRDA-U18-LPS-0022",
+        "sanctioned_date": "2021-11-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48172890625001,
+              16.500401979166668
+            ],
+            [
+              80.48172890625001,
+              16.501616770833333
+            ],
+            [
+              80.48079921875001,
+              16.501616770833333
+            ],
+            [
+              80.48079921875001,
+              16.500401979166668
+            ],
+            [
+              80.48172890625001,
+              16.500401979166668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0023",
+        "parcel_id": "APCRDA-U18-LPS-0023",
+        "sanctioned_date": "2021-12-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48329140625,
+              16.500401979166668
+            ],
+            [
+              80.48329140625,
+              16.501616770833333
+            ],
+            [
+              80.48236171875,
+              16.501616770833333
+            ],
+            [
+              80.48236171875,
+              16.500401979166668
+            ],
+            [
+              80.48329140625,
+              16.500401979166668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0024",
+        "parcel_id": "APCRDA-U18-LPS-0024",
+        "sanctioned_date": "2021-01-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48485390625001,
+              16.500401979166668
+            ],
+            [
+              80.48485390625001,
+              16.501616770833333
+            ],
+            [
+              80.48392421875,
+              16.501616770833333
+            ],
+            [
+              80.48392421875,
+              16.500401979166668
+            ],
+            [
+              80.48485390625001,
+              16.500401979166668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0025",
+        "parcel_id": "APCRDA-U18-LPS-0025",
+        "sanctioned_date": "2021-02-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48641640625,
+              16.500401979166668
+            ],
+            [
+              80.48641640625,
+              16.501616770833333
+            ],
+            [
+              80.48548671875,
+              16.501616770833333
+            ],
+            [
+              80.48548671875,
+              16.500401979166668
+            ],
+            [
+              80.48641640625,
+              16.500401979166668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0026",
+        "parcel_id": "APCRDA-U18-LPS-0026",
+        "sanctioned_date": "2021-03-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48797890625,
+              16.500401979166668
+            ],
+            [
+              80.48797890625,
+              16.501616770833333
+            ],
+            [
+              80.48704921875,
+              16.501616770833333
+            ],
+            [
+              80.48704921875,
+              16.500401979166668
+            ],
+            [
+              80.48797890625,
+              16.500401979166668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0027",
+        "parcel_id": "APCRDA-U18-LPS-0027",
+        "sanctioned_date": "2021-04-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48954140625,
+              16.500401979166668
+            ],
+            [
+              80.48954140625,
+              16.501616770833333
+            ],
+            [
+              80.48861171875,
+              16.501616770833333
+            ],
+            [
+              80.48861171875,
+              16.500401979166668
+            ],
+            [
+              80.48954140625,
+              16.500401979166668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0028",
+        "parcel_id": "APCRDA-U18-LPS-0028",
+        "sanctioned_date": "2021-05-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46922890625001,
+              16.502443645833335
+            ],
+            [
+              80.46922890625001,
+              16.5036584375
+            ],
+            [
+              80.46829921875,
+              16.5036584375
+            ],
+            [
+              80.46829921875,
+              16.502443645833335
+            ],
+            [
+              80.46922890625001,
+              16.502443645833335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0029",
+        "parcel_id": "APCRDA-U18-LPS-0029",
+        "sanctioned_date": "2021-06-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "UNASSESSED_STRUCTURE",
+        "gt_actual_floors": "G+1",
+        "gt_actual_height_m": 6.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47079140625002,
+              16.502443645833335
+            ],
+            [
+              80.47079140625002,
+              16.5036584375
+            ],
+            [
+              80.46986171875001,
+              16.5036584375
+            ],
+            [
+              80.46986171875001,
+              16.502443645833335
+            ],
+            [
+              80.47079140625002,
+              16.502443645833335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0030",
+        "parcel_id": "APCRDA-U18-LPS-0030",
+        "sanctioned_date": "2021-07-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "UNASSESSED_STRUCTURE",
+        "gt_actual_floors": "G+1",
+        "gt_actual_height_m": 6.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47235390625,
+              16.502443645833335
+            ],
+            [
+              80.47235390625,
+              16.5036584375
+            ],
+            [
+              80.47142421875,
+              16.5036584375
+            ],
+            [
+              80.47142421875,
+              16.502443645833335
+            ],
+            [
+              80.47235390625,
+              16.502443645833335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0031",
+        "parcel_id": "APCRDA-U18-LPS-0031",
+        "sanctioned_date": "2021-08-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47391640625001,
+              16.502443645833335
+            ],
+            [
+              80.47391640625001,
+              16.5036584375
+            ],
+            [
+              80.47298671875001,
+              16.5036584375
+            ],
+            [
+              80.47298671875001,
+              16.502443645833335
+            ],
+            [
+              80.47391640625001,
+              16.502443645833335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0032",
+        "parcel_id": "APCRDA-U18-LPS-0032",
+        "sanctioned_date": "2021-09-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47547890625,
+              16.502443645833335
+            ],
+            [
+              80.47547890625,
+              16.5036584375
+            ],
+            [
+              80.47454921875,
+              16.5036584375
+            ],
+            [
+              80.47454921875,
+              16.502443645833335
+            ],
+            [
+              80.47547890625,
+              16.502443645833335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0033",
+        "parcel_id": "APCRDA-U18-LPS-0033",
+        "sanctioned_date": "2021-10-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47704140625001,
+              16.502443645833335
+            ],
+            [
+              80.47704140625001,
+              16.5036584375
+            ],
+            [
+              80.47611171875,
+              16.5036584375
+            ],
+            [
+              80.47611171875,
+              16.502443645833335
+            ],
+            [
+              80.47704140625001,
+              16.502443645833335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0034",
+        "parcel_id": "APCRDA-U18-LPS-0034",
+        "sanctioned_date": "2021-11-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47860390625,
+              16.502443645833335
+            ],
+            [
+              80.47860390625,
+              16.5036584375
+            ],
+            [
+              80.47767421875,
+              16.5036584375
+            ],
+            [
+              80.47767421875,
+              16.502443645833335
+            ],
+            [
+              80.47860390625,
+              16.502443645833335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0035",
+        "parcel_id": "APCRDA-U18-LPS-0035",
+        "sanctioned_date": "2021-12-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48016640625,
+              16.502443645833335
+            ],
+            [
+              80.48016640625,
+              16.5036584375
+            ],
+            [
+              80.47923671875,
+              16.5036584375
+            ],
+            [
+              80.47923671875,
+              16.502443645833335
+            ],
+            [
+              80.48016640625,
+              16.502443645833335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0036",
+        "parcel_id": "APCRDA-U18-LPS-0036",
+        "sanctioned_date": "2021-01-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48172890625001,
+              16.502443645833335
+            ],
+            [
+              80.48172890625001,
+              16.5036584375
+            ],
+            [
+              80.48079921875001,
+              16.5036584375
+            ],
+            [
+              80.48079921875001,
+              16.502443645833335
+            ],
+            [
+              80.48172890625001,
+              16.502443645833335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0037",
+        "parcel_id": "APCRDA-U18-LPS-0037",
+        "sanctioned_date": "2021-02-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48329140625,
+              16.502443645833335
+            ],
+            [
+              80.48329140625,
+              16.5036584375
+            ],
+            [
+              80.48236171875,
+              16.5036584375
+            ],
+            [
+              80.48236171875,
+              16.502443645833335
+            ],
+            [
+              80.48329140625,
+              16.502443645833335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0038",
+        "parcel_id": "APCRDA-U18-LPS-0038",
+        "sanctioned_date": "2021-03-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48485390625001,
+              16.502443645833335
+            ],
+            [
+              80.48485390625001,
+              16.5036584375
+            ],
+            [
+              80.48392421875,
+              16.5036584375
+            ],
+            [
+              80.48392421875,
+              16.502443645833335
+            ],
+            [
+              80.48485390625001,
+              16.502443645833335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0039",
+        "parcel_id": "APCRDA-U18-LPS-0039",
+        "sanctioned_date": "2021-04-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48641640625,
+              16.502443645833335
+            ],
+            [
+              80.48641640625,
+              16.5036584375
+            ],
+            [
+              80.48548671875,
+              16.5036584375
+            ],
+            [
+              80.48548671875,
+              16.502443645833335
+            ],
+            [
+              80.48641640625,
+              16.502443645833335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0040",
+        "parcel_id": "APCRDA-U18-LPS-0040",
+        "sanctioned_date": "2021-05-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48797890625,
+              16.502443645833335
+            ],
+            [
+              80.48797890625,
+              16.5036584375
+            ],
+            [
+              80.48704921875,
+              16.5036584375
+            ],
+            [
+              80.48704921875,
+              16.502443645833335
+            ],
+            [
+              80.48797890625,
+              16.502443645833335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0041",
+        "parcel_id": "APCRDA-U18-LPS-0041",
+        "sanctioned_date": "2021-06-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48954140625,
+              16.502443645833335
+            ],
+            [
+              80.48954140625,
+              16.5036584375
+            ],
+            [
+              80.48861171875,
+              16.5036584375
+            ],
+            [
+              80.48861171875,
+              16.502443645833335
+            ],
+            [
+              80.48954140625,
+              16.502443645833335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0042",
+        "parcel_id": "APCRDA-U18-LPS-0042",
+        "sanctioned_date": "2021-07-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46922890625001,
+              16.5044853125
+            ],
+            [
+              80.46922890625001,
+              16.505700104166667
+            ],
+            [
+              80.46829921875,
+              16.505700104166667
+            ],
+            [
+              80.46829921875,
+              16.5044853125
+            ],
+            [
+              80.46922890625001,
+              16.5044853125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0043",
+        "parcel_id": "APCRDA-U18-LPS-0043",
+        "sanctioned_date": "2021-08-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47079140625002,
+              16.5044853125
+            ],
+            [
+              80.47079140625002,
+              16.505700104166667
+            ],
+            [
+              80.46986171875001,
+              16.505700104166667
+            ],
+            [
+              80.46986171875001,
+              16.5044853125
+            ],
+            [
+              80.47079140625002,
+              16.5044853125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0044",
+        "parcel_id": "APCRDA-U18-LPS-0044",
+        "sanctioned_date": "2021-09-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+3",
+        "gt_actual_height_m": 13.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47235390625,
+              16.5044853125
+            ],
+            [
+              80.47235390625,
+              16.505700104166667
+            ],
+            [
+              80.47142421875,
+              16.505700104166667
+            ],
+            [
+              80.47142421875,
+              16.5044853125
+            ],
+            [
+              80.47235390625,
+              16.5044853125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0045",
+        "parcel_id": "APCRDA-U18-LPS-0045",
+        "sanctioned_date": "2021-10-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "UNASSESSED_STRUCTURE",
+        "gt_actual_floors": "G+1",
+        "gt_actual_height_m": 6.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47391640625001,
+              16.5044853125
+            ],
+            [
+              80.47391640625001,
+              16.505700104166667
+            ],
+            [
+              80.47298671875001,
+              16.505700104166667
+            ],
+            [
+              80.47298671875001,
+              16.5044853125
+            ],
+            [
+              80.47391640625001,
+              16.5044853125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0046",
+        "parcel_id": "APCRDA-U18-LPS-0046",
+        "sanctioned_date": "2021-11-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "UNASSESSED_STRUCTURE",
+        "gt_actual_floors": "G+1",
+        "gt_actual_height_m": 6.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47547890625,
+              16.5044853125
+            ],
+            [
+              80.47547890625,
+              16.505700104166667
+            ],
+            [
+              80.47454921875,
+              16.505700104166667
+            ],
+            [
+              80.47454921875,
+              16.5044853125
+            ],
+            [
+              80.47547890625,
+              16.5044853125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0047",
+        "parcel_id": "APCRDA-U18-LPS-0047",
+        "sanctioned_date": "2021-12-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47704140625001,
+              16.5044853125
+            ],
+            [
+              80.47704140625001,
+              16.505700104166667
+            ],
+            [
+              80.47611171875,
+              16.505700104166667
+            ],
+            [
+              80.47611171875,
+              16.5044853125
+            ],
+            [
+              80.47704140625001,
+              16.5044853125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0048",
+        "parcel_id": "APCRDA-U18-LPS-0048",
+        "sanctioned_date": "2021-01-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47860390625,
+              16.5044853125
+            ],
+            [
+              80.47860390625,
+              16.505700104166667
+            ],
+            [
+              80.47767421875,
+              16.505700104166667
+            ],
+            [
+              80.47767421875,
+              16.5044853125
+            ],
+            [
+              80.47860390625,
+              16.5044853125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0049",
+        "parcel_id": "APCRDA-U18-LPS-0049",
+        "sanctioned_date": "2021-02-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48016640625,
+              16.5044853125
+            ],
+            [
+              80.48016640625,
+              16.505700104166667
+            ],
+            [
+              80.47923671875,
+              16.505700104166667
+            ],
+            [
+              80.47923671875,
+              16.5044853125
+            ],
+            [
+              80.48016640625,
+              16.5044853125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0050",
+        "parcel_id": "APCRDA-U18-LPS-0050",
+        "sanctioned_date": "2021-03-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48172890625001,
+              16.5044853125
+            ],
+            [
+              80.48172890625001,
+              16.505700104166667
+            ],
+            [
+              80.48079921875001,
+              16.505700104166667
+            ],
+            [
+              80.48079921875001,
+              16.5044853125
+            ],
+            [
+              80.48172890625001,
+              16.5044853125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0051",
+        "parcel_id": "APCRDA-U18-LPS-0051",
+        "sanctioned_date": "2021-04-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+3",
+        "gt_actual_height_m": 13.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48329140625,
+              16.5044853125
+            ],
+            [
+              80.48329140625,
+              16.505700104166667
+            ],
+            [
+              80.48236171875,
+              16.505700104166667
+            ],
+            [
+              80.48236171875,
+              16.5044853125
+            ],
+            [
+              80.48329140625,
+              16.5044853125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0052",
+        "parcel_id": "APCRDA-U18-LPS-0052",
+        "sanctioned_date": "2021-05-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+3",
+        "gt_actual_height_m": 13.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48485390625001,
+              16.5044853125
+            ],
+            [
+              80.48485390625001,
+              16.505700104166667
+            ],
+            [
+              80.48392421875,
+              16.505700104166667
+            ],
+            [
+              80.48392421875,
+              16.5044853125
+            ],
+            [
+              80.48485390625001,
+              16.5044853125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0053",
+        "parcel_id": "APCRDA-U18-LPS-0053",
+        "sanctioned_date": "2021-06-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+3",
+        "gt_actual_height_m": 13.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48641640625,
+              16.5044853125
+            ],
+            [
+              80.48641640625,
+              16.505700104166667
+            ],
+            [
+              80.48548671875,
+              16.505700104166667
+            ],
+            [
+              80.48548671875,
+              16.5044853125
+            ],
+            [
+              80.48641640625,
+              16.5044853125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0054",
+        "parcel_id": "APCRDA-U18-LPS-0054",
+        "sanctioned_date": "2021-07-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+3",
+        "gt_actual_height_m": 13.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48797890625,
+              16.5044853125
+            ],
+            [
+              80.48797890625,
+              16.505700104166667
+            ],
+            [
+              80.48704921875,
+              16.505700104166667
+            ],
+            [
+              80.48704921875,
+              16.5044853125
+            ],
+            [
+              80.48797890625,
+              16.5044853125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0055",
+        "parcel_id": "APCRDA-U18-LPS-0055",
+        "sanctioned_date": "2021-08-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "UNASSESSED_STRUCTURE",
+        "gt_actual_floors": "G+1",
+        "gt_actual_height_m": 6.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48954140625,
+              16.5044853125
+            ],
+            [
+              80.48954140625,
+              16.505700104166667
+            ],
+            [
+              80.48861171875,
+              16.505700104166667
+            ],
+            [
+              80.48861171875,
+              16.5044853125
+            ],
+            [
+              80.48954140625,
+              16.5044853125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0056",
+        "parcel_id": "APCRDA-U18-LPS-0056",
+        "sanctioned_date": "2021-09-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46922890625001,
+              16.50652697916667
+            ],
+            [
+              80.46922890625001,
+              16.507741770833334
+            ],
+            [
+              80.46829921875,
+              16.507741770833334
+            ],
+            [
+              80.46829921875,
+              16.50652697916667
+            ],
+            [
+              80.46922890625001,
+              16.50652697916667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0057",
+        "parcel_id": "APCRDA-U18-LPS-0057",
+        "sanctioned_date": "2021-10-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47079140625002,
+              16.50652697916667
+            ],
+            [
+              80.47079140625002,
+              16.507741770833334
+            ],
+            [
+              80.46986171875001,
+              16.507741770833334
+            ],
+            [
+              80.46986171875001,
+              16.50652697916667
+            ],
+            [
+              80.47079140625002,
+              16.50652697916667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0058",
+        "parcel_id": "APCRDA-U18-LPS-0058",
+        "sanctioned_date": "2021-11-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+3",
+        "gt_actual_height_m": 13.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47235390625,
+              16.50652697916667
+            ],
+            [
+              80.47235390625,
+              16.507741770833334
+            ],
+            [
+              80.47142421875,
+              16.507741770833334
+            ],
+            [
+              80.47142421875,
+              16.50652697916667
+            ],
+            [
+              80.47235390625,
+              16.50652697916667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0059",
+        "parcel_id": "APCRDA-U18-LPS-0059",
+        "sanctioned_date": "2021-12-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+3",
+        "gt_actual_height_m": 13.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47391640625001,
+              16.50652697916667
+            ],
+            [
+              80.47391640625001,
+              16.507741770833334
+            ],
+            [
+              80.47298671875001,
+              16.507741770833334
+            ],
+            [
+              80.47298671875001,
+              16.50652697916667
+            ],
+            [
+              80.47391640625001,
+              16.50652697916667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0060",
+        "parcel_id": "APCRDA-U18-LPS-0060",
+        "sanctioned_date": "2021-01-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47547890625,
+              16.50652697916667
+            ],
+            [
+              80.47547890625,
+              16.507741770833334
+            ],
+            [
+              80.47454921875,
+              16.507741770833334
+            ],
+            [
+              80.47454921875,
+              16.50652697916667
+            ],
+            [
+              80.47547890625,
+              16.50652697916667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0061",
+        "parcel_id": "APCRDA-U18-LPS-0061",
+        "sanctioned_date": "2021-02-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+3",
+        "gt_actual_height_m": 13.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47704140625001,
+              16.50652697916667
+            ],
+            [
+              80.47704140625001,
+              16.507741770833334
+            ],
+            [
+              80.47611171875,
+              16.507741770833334
+            ],
+            [
+              80.47611171875,
+              16.50652697916667
+            ],
+            [
+              80.47704140625001,
+              16.50652697916667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0062",
+        "parcel_id": "APCRDA-U18-LPS-0062",
+        "sanctioned_date": "2021-03-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+3",
+        "gt_actual_height_m": 13.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47860390625,
+              16.50652697916667
+            ],
+            [
+              80.47860390625,
+              16.507741770833334
+            ],
+            [
+              80.47767421875,
+              16.507741770833334
+            ],
+            [
+              80.47767421875,
+              16.50652697916667
+            ],
+            [
+              80.47860390625,
+              16.50652697916667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0063",
+        "parcel_id": "APCRDA-U18-LPS-0063",
+        "sanctioned_date": "2021-04-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+3",
+        "gt_actual_height_m": 13.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48016640625,
+              16.50652697916667
+            ],
+            [
+              80.48016640625,
+              16.507741770833334
+            ],
+            [
+              80.47923671875,
+              16.507741770833334
+            ],
+            [
+              80.47923671875,
+              16.50652697916667
+            ],
+            [
+              80.48016640625,
+              16.50652697916667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0064",
+        "parcel_id": "APCRDA-U18-LPS-0064",
+        "sanctioned_date": "2021-05-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+3",
+        "gt_actual_height_m": 13.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48172890625001,
+              16.50652697916667
+            ],
+            [
+              80.48172890625001,
+              16.507741770833334
+            ],
+            [
+              80.48079921875001,
+              16.507741770833334
+            ],
+            [
+              80.48079921875001,
+              16.50652697916667
+            ],
+            [
+              80.48172890625001,
+              16.50652697916667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0065",
+        "parcel_id": "APCRDA-U18-LPS-0065",
+        "sanctioned_date": "2021-06-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+3",
+        "gt_actual_height_m": 13.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48329140625,
+              16.50652697916667
+            ],
+            [
+              80.48329140625,
+              16.507741770833334
+            ],
+            [
+              80.48236171875,
+              16.507741770833334
+            ],
+            [
+              80.48236171875,
+              16.50652697916667
+            ],
+            [
+              80.48329140625,
+              16.50652697916667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0066",
+        "parcel_id": "APCRDA-U18-LPS-0066",
+        "sanctioned_date": "2021-07-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+3",
+        "gt_actual_height_m": 13.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48485390625001,
+              16.50652697916667
+            ],
+            [
+              80.48485390625001,
+              16.507741770833334
+            ],
+            [
+              80.48392421875,
+              16.507741770833334
+            ],
+            [
+              80.48392421875,
+              16.50652697916667
+            ],
+            [
+              80.48485390625001,
+              16.50652697916667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0067",
+        "parcel_id": "APCRDA-U18-LPS-0067",
+        "sanctioned_date": "2021-08-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "UNASSESSED_STRUCTURE",
+        "gt_actual_floors": "G+1",
+        "gt_actual_height_m": 6.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48641640625,
+              16.50652697916667
+            ],
+            [
+              80.48641640625,
+              16.507741770833334
+            ],
+            [
+              80.48548671875,
+              16.507741770833334
+            ],
+            [
+              80.48548671875,
+              16.50652697916667
+            ],
+            [
+              80.48641640625,
+              16.50652697916667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0068",
+        "parcel_id": "APCRDA-U18-LPS-0068",
+        "sanctioned_date": "2021-09-15",
+        "permitted_floors": "G+3",
+        "permitted_height_m": 13.5,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 68037.6,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+3",
+        "gt_actual_height_m": 13.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48797890625,
+              16.50652697916667
+            ],
+            [
+              80.48797890625,
+              16.507741770833334
+            ],
+            [
+              80.48704921875,
+              16.507741770833334
+            ],
+            [
+              80.48704921875,
+              16.50652697916667
+            ],
+            [
+              80.48797890625,
+              16.50652697916667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0069",
+        "parcel_id": "APCRDA-U18-LPS-0069",
+        "sanctioned_date": "2021-10-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48954140625,
+              16.50652697916667
+            ],
+            [
+              80.48954140625,
+              16.507741770833334
+            ],
+            [
+              80.48861171875,
+              16.507741770833334
+            ],
+            [
+              80.48861171875,
+              16.50652697916667
+            ],
+            [
+              80.48954140625,
+              16.50652697916667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0070",
+        "parcel_id": "APCRDA-U18-LPS-0070",
+        "sanctioned_date": "2021-11-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46922890625001,
+              16.508568645833336
+            ],
+            [
+              80.46922890625001,
+              16.5097834375
+            ],
+            [
+              80.46829921875,
+              16.5097834375
+            ],
+            [
+              80.46829921875,
+              16.508568645833336
+            ],
+            [
+              80.46922890625001,
+              16.508568645833336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0071",
+        "parcel_id": "APCRDA-U18-LPS-0071",
+        "sanctioned_date": "2021-12-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47079140625002,
+              16.508568645833336
+            ],
+            [
+              80.47079140625002,
+              16.5097834375
+            ],
+            [
+              80.46986171875001,
+              16.5097834375
+            ],
+            [
+              80.46986171875001,
+              16.508568645833336
+            ],
+            [
+              80.47079140625002,
+              16.508568645833336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0072",
+        "parcel_id": "APCRDA-U18-LPS-0072",
+        "sanctioned_date": "2021-01-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47235390625,
+              16.508568645833336
+            ],
+            [
+              80.47235390625,
+              16.5097834375
+            ],
+            [
+              80.47142421875,
+              16.5097834375
+            ],
+            [
+              80.47142421875,
+              16.508568645833336
+            ],
+            [
+              80.47235390625,
+              16.508568645833336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0073",
+        "parcel_id": "APCRDA-U18-LPS-0073",
+        "sanctioned_date": "2021-02-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47391640625001,
+              16.508568645833336
+            ],
+            [
+              80.47391640625001,
+              16.5097834375
+            ],
+            [
+              80.47298671875001,
+              16.5097834375
+            ],
+            [
+              80.47298671875001,
+              16.508568645833336
+            ],
+            [
+              80.47391640625001,
+              16.508568645833336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0074",
+        "parcel_id": "APCRDA-U18-LPS-0074",
+        "sanctioned_date": "2021-03-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47547890625,
+              16.508568645833336
+            ],
+            [
+              80.47547890625,
+              16.5097834375
+            ],
+            [
+              80.47454921875,
+              16.5097834375
+            ],
+            [
+              80.47454921875,
+              16.508568645833336
+            ],
+            [
+              80.47547890625,
+              16.508568645833336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0075",
+        "parcel_id": "APCRDA-U18-LPS-0075",
+        "sanctioned_date": "2021-04-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47704140625001,
+              16.508568645833336
+            ],
+            [
+              80.47704140625001,
+              16.5097834375
+            ],
+            [
+              80.47611171875,
+              16.5097834375
+            ],
+            [
+              80.47611171875,
+              16.508568645833336
+            ],
+            [
+              80.47704140625001,
+              16.508568645833336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0076",
+        "parcel_id": "APCRDA-U18-LPS-0076",
+        "sanctioned_date": "2021-05-15",
+        "permitted_floors": "G+4",
+        "permitted_height_m": 18.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 85047.0,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 18.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47860390625,
+              16.508568645833336
+            ],
+            [
+              80.47860390625,
+              16.5097834375
+            ],
+            [
+              80.47767421875,
+              16.5097834375
+            ],
+            [
+              80.47767421875,
+              16.508568645833336
+            ],
+            [
+              80.47860390625,
+              16.508568645833336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0077",
+        "parcel_id": "APCRDA-U18-LPS-0077",
+        "sanctioned_date": "2021-06-15",
+        "permitted_floors": "G+4",
+        "permitted_height_m": 18.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 85047.0,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 18.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48016640625,
+              16.508568645833336
+            ],
+            [
+              80.48016640625,
+              16.5097834375
+            ],
+            [
+              80.47923671875,
+              16.5097834375
+            ],
+            [
+              80.47923671875,
+              16.508568645833336
+            ],
+            [
+              80.48016640625,
+              16.508568645833336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0078",
+        "parcel_id": "APCRDA-U18-LPS-0078",
+        "sanctioned_date": "2021-07-15",
+        "permitted_floors": "G+4",
+        "permitted_height_m": 18.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 85047.0,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48172890625001,
+              16.508568645833336
+            ],
+            [
+              80.48172890625001,
+              16.5097834375
+            ],
+            [
+              80.48079921875001,
+              16.5097834375
+            ],
+            [
+              80.48079921875001,
+              16.508568645833336
+            ],
+            [
+              80.48172890625001,
+              16.508568645833336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0079",
+        "parcel_id": "APCRDA-U18-LPS-0079",
+        "sanctioned_date": "2021-08-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48329140625,
+              16.508568645833336
+            ],
+            [
+              80.48329140625,
+              16.5097834375
+            ],
+            [
+              80.48236171875,
+              16.5097834375
+            ],
+            [
+              80.48236171875,
+              16.508568645833336
+            ],
+            [
+              80.48329140625,
+              16.508568645833336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0080",
+        "parcel_id": "APCRDA-U18-LPS-0080",
+        "sanctioned_date": "2021-09-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48485390625001,
+              16.508568645833336
+            ],
+            [
+              80.48485390625001,
+              16.5097834375
+            ],
+            [
+              80.48392421875,
+              16.5097834375
+            ],
+            [
+              80.48392421875,
+              16.508568645833336
+            ],
+            [
+              80.48485390625001,
+              16.508568645833336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0081",
+        "parcel_id": "APCRDA-U18-LPS-0081",
+        "sanctioned_date": "2021-10-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48641640625,
+              16.508568645833336
+            ],
+            [
+              80.48641640625,
+              16.5097834375
+            ],
+            [
+              80.48548671875,
+              16.5097834375
+            ],
+            [
+              80.48548671875,
+              16.508568645833336
+            ],
+            [
+              80.48641640625,
+              16.508568645833336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0082",
+        "parcel_id": "APCRDA-U18-LPS-0082",
+        "sanctioned_date": "2021-11-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48797890625,
+              16.508568645833336
+            ],
+            [
+              80.48797890625,
+              16.5097834375
+            ],
+            [
+              80.48704921875,
+              16.5097834375
+            ],
+            [
+              80.48704921875,
+              16.508568645833336
+            ],
+            [
+              80.48797890625,
+              16.508568645833336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0083",
+        "parcel_id": "APCRDA-U18-LPS-0083",
+        "sanctioned_date": "2021-12-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48954140625,
+              16.508568645833336
+            ],
+            [
+              80.48954140625,
+              16.5097834375
+            ],
+            [
+              80.48861171875,
+              16.5097834375
+            ],
+            [
+              80.48861171875,
+              16.508568645833336
+            ],
+            [
+              80.48954140625,
+              16.508568645833336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0084",
+        "parcel_id": "APCRDA-U18-LPS-0084",
+        "sanctioned_date": "2021-01-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46922890625001,
+              16.5106103125
+            ],
+            [
+              80.46922890625001,
+              16.511825104166665
+            ],
+            [
+              80.46829921875,
+              16.511825104166665
+            ],
+            [
+              80.46829921875,
+              16.5106103125
+            ],
+            [
+              80.46922890625001,
+              16.5106103125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0085",
+        "parcel_id": "APCRDA-U18-LPS-0085",
+        "sanctioned_date": "2021-02-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47079140625002,
+              16.5106103125
+            ],
+            [
+              80.47079140625002,
+              16.511825104166665
+            ],
+            [
+              80.46986171875001,
+              16.511825104166665
+            ],
+            [
+              80.46986171875001,
+              16.5106103125
+            ],
+            [
+              80.47079140625002,
+              16.5106103125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0086",
+        "parcel_id": "APCRDA-U18-LPS-0086",
+        "sanctioned_date": "2021-03-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47235390625,
+              16.5106103125
+            ],
+            [
+              80.47235390625,
+              16.511825104166665
+            ],
+            [
+              80.47142421875,
+              16.511825104166665
+            ],
+            [
+              80.47142421875,
+              16.5106103125
+            ],
+            [
+              80.47235390625,
+              16.5106103125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0087",
+        "parcel_id": "APCRDA-U18-LPS-0087",
+        "sanctioned_date": "2021-04-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47391640625001,
+              16.5106103125
+            ],
+            [
+              80.47391640625001,
+              16.511825104166665
+            ],
+            [
+              80.47298671875001,
+              16.511825104166665
+            ],
+            [
+              80.47298671875001,
+              16.5106103125
+            ],
+            [
+              80.47391640625001,
+              16.5106103125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0088",
+        "parcel_id": "APCRDA-U18-LPS-0088",
+        "sanctioned_date": "2021-05-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47547890625,
+              16.5106103125
+            ],
+            [
+              80.47547890625,
+              16.511825104166665
+            ],
+            [
+              80.47454921875,
+              16.511825104166665
+            ],
+            [
+              80.47454921875,
+              16.5106103125
+            ],
+            [
+              80.47547890625,
+              16.5106103125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0089",
+        "parcel_id": "APCRDA-U18-LPS-0089",
+        "sanctioned_date": "2021-06-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "UNASSESSED_STRUCTURE",
+        "gt_actual_floors": "G+1",
+        "gt_actual_height_m": 6.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47704140625001,
+              16.5106103125
+            ],
+            [
+              80.47704140625001,
+              16.511825104166665
+            ],
+            [
+              80.47611171875,
+              16.511825104166665
+            ],
+            [
+              80.47611171875,
+              16.5106103125
+            ],
+            [
+              80.47704140625001,
+              16.5106103125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0090",
+        "parcel_id": "APCRDA-U18-LPS-0090",
+        "sanctioned_date": "2021-07-15",
+        "permitted_floors": "G+4",
+        "permitted_height_m": 18.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 85047.0,
+        "gt_violation_profile": "UNASSESSED_STRUCTURE",
+        "gt_actual_floors": "G+1",
+        "gt_actual_height_m": 6.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47860390625,
+              16.5106103125
+            ],
+            [
+              80.47860390625,
+              16.511825104166665
+            ],
+            [
+              80.47767421875,
+              16.511825104166665
+            ],
+            [
+              80.47767421875,
+              16.5106103125
+            ],
+            [
+              80.47860390625,
+              16.5106103125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0091",
+        "parcel_id": "APCRDA-U18-LPS-0091",
+        "sanctioned_date": "2021-08-15",
+        "permitted_floors": "G+4",
+        "permitted_height_m": 18.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 85047.0,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 18.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48016640625,
+              16.5106103125
+            ],
+            [
+              80.48016640625,
+              16.511825104166665
+            ],
+            [
+              80.47923671875,
+              16.511825104166665
+            ],
+            [
+              80.47923671875,
+              16.5106103125
+            ],
+            [
+              80.48016640625,
+              16.5106103125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0092",
+        "parcel_id": "APCRDA-U18-LPS-0092",
+        "sanctioned_date": "2021-09-15",
+        "permitted_floors": "G+4",
+        "permitted_height_m": 18.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 85047.0,
+        "gt_violation_profile": "UNASSESSED_STRUCTURE",
+        "gt_actual_floors": "G+1",
+        "gt_actual_height_m": 6.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48172890625001,
+              16.5106103125
+            ],
+            [
+              80.48172890625001,
+              16.511825104166665
+            ],
+            [
+              80.48079921875001,
+              16.511825104166665
+            ],
+            [
+              80.48079921875001,
+              16.5106103125
+            ],
+            [
+              80.48172890625001,
+              16.5106103125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0093",
+        "parcel_id": "APCRDA-U18-LPS-0093",
+        "sanctioned_date": "2021-10-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48329140625,
+              16.5106103125
+            ],
+            [
+              80.48329140625,
+              16.511825104166665
+            ],
+            [
+              80.48236171875,
+              16.511825104166665
+            ],
+            [
+              80.48236171875,
+              16.5106103125
+            ],
+            [
+              80.48329140625,
+              16.5106103125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0094",
+        "parcel_id": "APCRDA-U18-LPS-0094",
+        "sanctioned_date": "2021-11-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48485390625001,
+              16.5106103125
+            ],
+            [
+              80.48485390625001,
+              16.511825104166665
+            ],
+            [
+              80.48392421875,
+              16.511825104166665
+            ],
+            [
+              80.48392421875,
+              16.5106103125
+            ],
+            [
+              80.48485390625001,
+              16.5106103125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0095",
+        "parcel_id": "APCRDA-U18-LPS-0095",
+        "sanctioned_date": "2021-12-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48641640625,
+              16.5106103125
+            ],
+            [
+              80.48641640625,
+              16.511825104166665
+            ],
+            [
+              80.48548671875,
+              16.511825104166665
+            ],
+            [
+              80.48548671875,
+              16.5106103125
+            ],
+            [
+              80.48641640625,
+              16.5106103125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0096",
+        "parcel_id": "APCRDA-U18-LPS-0096",
+        "sanctioned_date": "2021-01-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48797890625,
+              16.5106103125
+            ],
+            [
+              80.48797890625,
+              16.511825104166665
+            ],
+            [
+              80.48704921875,
+              16.511825104166665
+            ],
+            [
+              80.48704921875,
+              16.5106103125
+            ],
+            [
+              80.48797890625,
+              16.5106103125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0097",
+        "parcel_id": "APCRDA-U18-LPS-0097",
+        "sanctioned_date": "2021-02-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48954140625,
+              16.5106103125
+            ],
+            [
+              80.48954140625,
+              16.511825104166665
+            ],
+            [
+              80.48861171875,
+              16.511825104166665
+            ],
+            [
+              80.48861171875,
+              16.5106103125
+            ],
+            [
+              80.48954140625,
+              16.5106103125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0098",
+        "parcel_id": "APCRDA-U18-LPS-0098",
+        "sanctioned_date": "2021-03-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46922890625001,
+              16.512651979166666
+            ],
+            [
+              80.46922890625001,
+              16.51386677083333
+            ],
+            [
+              80.46829921875,
+              16.51386677083333
+            ],
+            [
+              80.46829921875,
+              16.512651979166666
+            ],
+            [
+              80.46922890625001,
+              16.512651979166666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0099",
+        "parcel_id": "APCRDA-U18-LPS-0099",
+        "sanctioned_date": "2021-04-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47079140625002,
+              16.512651979166666
+            ],
+            [
+              80.47079140625002,
+              16.51386677083333
+            ],
+            [
+              80.46986171875001,
+              16.51386677083333
+            ],
+            [
+              80.46986171875001,
+              16.512651979166666
+            ],
+            [
+              80.47079140625002,
+              16.512651979166666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0100",
+        "parcel_id": "APCRDA-U18-LPS-0100",
+        "sanctioned_date": "2021-05-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47235390625,
+              16.512651979166666
+            ],
+            [
+              80.47235390625,
+              16.51386677083333
+            ],
+            [
+              80.47142421875,
+              16.51386677083333
+            ],
+            [
+              80.47142421875,
+              16.512651979166666
+            ],
+            [
+              80.47235390625,
+              16.512651979166666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0101",
+        "parcel_id": "APCRDA-U18-LPS-0101",
+        "sanctioned_date": "2021-06-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47391640625001,
+              16.512651979166666
+            ],
+            [
+              80.47391640625001,
+              16.51386677083333
+            ],
+            [
+              80.47298671875001,
+              16.51386677083333
+            ],
+            [
+              80.47298671875001,
+              16.512651979166666
+            ],
+            [
+              80.47391640625001,
+              16.512651979166666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0102",
+        "parcel_id": "APCRDA-U18-LPS-0102",
+        "sanctioned_date": "2021-07-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "UNASSESSED_STRUCTURE",
+        "gt_actual_floors": "G+1",
+        "gt_actual_height_m": 6.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47547890625,
+              16.512651979166666
+            ],
+            [
+              80.47547890625,
+              16.51386677083333
+            ],
+            [
+              80.47454921875,
+              16.51386677083333
+            ],
+            [
+              80.47454921875,
+              16.512651979166666
+            ],
+            [
+              80.47547890625,
+              16.512651979166666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0103",
+        "parcel_id": "APCRDA-U18-LPS-0103",
+        "sanctioned_date": "2021-08-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47704140625001,
+              16.512651979166666
+            ],
+            [
+              80.47704140625001,
+              16.51386677083333
+            ],
+            [
+              80.47611171875,
+              16.51386677083333
+            ],
+            [
+              80.47611171875,
+              16.512651979166666
+            ],
+            [
+              80.47704140625001,
+              16.512651979166666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0104",
+        "parcel_id": "APCRDA-U18-LPS-0104",
+        "sanctioned_date": "2021-09-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47860390625,
+              16.512651979166666
+            ],
+            [
+              80.47860390625,
+              16.51386677083333
+            ],
+            [
+              80.47767421875,
+              16.51386677083333
+            ],
+            [
+              80.47767421875,
+              16.512651979166666
+            ],
+            [
+              80.47860390625,
+              16.512651979166666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0105",
+        "parcel_id": "APCRDA-U18-LPS-0105",
+        "sanctioned_date": "2021-10-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48016640625,
+              16.512651979166666
+            ],
+            [
+              80.48016640625,
+              16.51386677083333
+            ],
+            [
+              80.47923671875,
+              16.51386677083333
+            ],
+            [
+              80.47923671875,
+              16.512651979166666
+            ],
+            [
+              80.48016640625,
+              16.512651979166666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0106",
+        "parcel_id": "APCRDA-U18-LPS-0106",
+        "sanctioned_date": "2021-11-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48172890625001,
+              16.512651979166666
+            ],
+            [
+              80.48172890625001,
+              16.51386677083333
+            ],
+            [
+              80.48079921875001,
+              16.51386677083333
+            ],
+            [
+              80.48079921875001,
+              16.512651979166666
+            ],
+            [
+              80.48172890625001,
+              16.512651979166666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0107",
+        "parcel_id": "APCRDA-U18-LPS-0107",
+        "sanctioned_date": "2021-12-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48329140625,
+              16.512651979166666
+            ],
+            [
+              80.48329140625,
+              16.51386677083333
+            ],
+            [
+              80.48236171875,
+              16.51386677083333
+            ],
+            [
+              80.48236171875,
+              16.512651979166666
+            ],
+            [
+              80.48329140625,
+              16.512651979166666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0108",
+        "parcel_id": "APCRDA-U18-LPS-0108",
+        "sanctioned_date": "2021-01-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48485390625001,
+              16.512651979166666
+            ],
+            [
+              80.48485390625001,
+              16.51386677083333
+            ],
+            [
+              80.48392421875,
+              16.51386677083333
+            ],
+            [
+              80.48392421875,
+              16.512651979166666
+            ],
+            [
+              80.48485390625001,
+              16.512651979166666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0109",
+        "parcel_id": "APCRDA-U18-LPS-0109",
+        "sanctioned_date": "2021-02-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48641640625,
+              16.512651979166666
+            ],
+            [
+              80.48641640625,
+              16.51386677083333
+            ],
+            [
+              80.48548671875,
+              16.51386677083333
+            ],
+            [
+              80.48548671875,
+              16.512651979166666
+            ],
+            [
+              80.48641640625,
+              16.512651979166666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0110",
+        "parcel_id": "APCRDA-U18-LPS-0110",
+        "sanctioned_date": "2021-03-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48797890625,
+              16.512651979166666
+            ],
+            [
+              80.48797890625,
+              16.51386677083333
+            ],
+            [
+              80.48704921875,
+              16.51386677083333
+            ],
+            [
+              80.48704921875,
+              16.512651979166666
+            ],
+            [
+              80.48797890625,
+              16.512651979166666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0111",
+        "parcel_id": "APCRDA-U18-LPS-0111",
+        "sanctioned_date": "2021-04-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48954140625,
+              16.512651979166666
+            ],
+            [
+              80.48954140625,
+              16.51386677083333
+            ],
+            [
+              80.48861171875,
+              16.51386677083333
+            ],
+            [
+              80.48861171875,
+              16.512651979166666
+            ],
+            [
+              80.48954140625,
+              16.512651979166666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0112",
+        "parcel_id": "APCRDA-U18-LPS-0112",
+        "sanctioned_date": "2021-05-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46922890625001,
+              16.514693645833333
+            ],
+            [
+              80.46922890625001,
+              16.5159084375
+            ],
+            [
+              80.46829921875,
+              16.5159084375
+            ],
+            [
+              80.46829921875,
+              16.514693645833333
+            ],
+            [
+              80.46922890625001,
+              16.514693645833333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0113",
+        "parcel_id": "APCRDA-U18-LPS-0113",
+        "sanctioned_date": "2021-06-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "UNASSESSED_STRUCTURE",
+        "gt_actual_floors": "G+1",
+        "gt_actual_height_m": 6.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47079140625002,
+              16.514693645833333
+            ],
+            [
+              80.47079140625002,
+              16.5159084375
+            ],
+            [
+              80.46986171875001,
+              16.5159084375
+            ],
+            [
+              80.46986171875001,
+              16.514693645833333
+            ],
+            [
+              80.47079140625002,
+              16.514693645833333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0114",
+        "parcel_id": "APCRDA-U18-LPS-0114",
+        "sanctioned_date": "2021-07-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47235390625,
+              16.514693645833333
+            ],
+            [
+              80.47235390625,
+              16.5159084375
+            ],
+            [
+              80.47142421875,
+              16.5159084375
+            ],
+            [
+              80.47142421875,
+              16.514693645833333
+            ],
+            [
+              80.47235390625,
+              16.514693645833333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0115",
+        "parcel_id": "APCRDA-U18-LPS-0115",
+        "sanctioned_date": "2021-08-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47391640625001,
+              16.514693645833333
+            ],
+            [
+              80.47391640625001,
+              16.5159084375
+            ],
+            [
+              80.47298671875001,
+              16.5159084375
+            ],
+            [
+              80.47298671875001,
+              16.514693645833333
+            ],
+            [
+              80.47391640625001,
+              16.514693645833333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0116",
+        "parcel_id": "APCRDA-U18-LPS-0116",
+        "sanctioned_date": "2021-09-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47547890625,
+              16.514693645833333
+            ],
+            [
+              80.47547890625,
+              16.5159084375
+            ],
+            [
+              80.47454921875,
+              16.5159084375
+            ],
+            [
+              80.47454921875,
+              16.514693645833333
+            ],
+            [
+              80.47547890625,
+              16.514693645833333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0117",
+        "parcel_id": "APCRDA-U18-LPS-0117",
+        "sanctioned_date": "2021-10-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47704140625001,
+              16.514693645833333
+            ],
+            [
+              80.47704140625001,
+              16.5159084375
+            ],
+            [
+              80.47611171875,
+              16.5159084375
+            ],
+            [
+              80.47611171875,
+              16.514693645833333
+            ],
+            [
+              80.47704140625001,
+              16.514693645833333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0118",
+        "parcel_id": "APCRDA-U18-LPS-0118",
+        "sanctioned_date": "2021-11-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47860390625,
+              16.514693645833333
+            ],
+            [
+              80.47860390625,
+              16.5159084375
+            ],
+            [
+              80.47767421875,
+              16.5159084375
+            ],
+            [
+              80.47767421875,
+              16.514693645833333
+            ],
+            [
+              80.47860390625,
+              16.514693645833333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0119",
+        "parcel_id": "APCRDA-U18-LPS-0119",
+        "sanctioned_date": "2021-12-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48016640625,
+              16.514693645833333
+            ],
+            [
+              80.48016640625,
+              16.5159084375
+            ],
+            [
+              80.47923671875,
+              16.5159084375
+            ],
+            [
+              80.47923671875,
+              16.514693645833333
+            ],
+            [
+              80.48016640625,
+              16.514693645833333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0120",
+        "parcel_id": "APCRDA-U18-LPS-0120",
+        "sanctioned_date": "2021-01-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48172890625001,
+              16.514693645833333
+            ],
+            [
+              80.48172890625001,
+              16.5159084375
+            ],
+            [
+              80.48079921875001,
+              16.5159084375
+            ],
+            [
+              80.48079921875001,
+              16.514693645833333
+            ],
+            [
+              80.48172890625001,
+              16.514693645833333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0121",
+        "parcel_id": "APCRDA-U18-LPS-0121",
+        "sanctioned_date": "2021-02-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48329140625,
+              16.514693645833333
+            ],
+            [
+              80.48329140625,
+              16.5159084375
+            ],
+            [
+              80.48236171875,
+              16.5159084375
+            ],
+            [
+              80.48236171875,
+              16.514693645833333
+            ],
+            [
+              80.48329140625,
+              16.514693645833333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0122",
+        "parcel_id": "APCRDA-U18-LPS-0122",
+        "sanctioned_date": "2021-03-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48485390625001,
+              16.514693645833333
+            ],
+            [
+              80.48485390625001,
+              16.5159084375
+            ],
+            [
+              80.48392421875,
+              16.5159084375
+            ],
+            [
+              80.48392421875,
+              16.514693645833333
+            ],
+            [
+              80.48485390625001,
+              16.514693645833333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0123",
+        "parcel_id": "APCRDA-U18-LPS-0123",
+        "sanctioned_date": "2021-04-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48641640625,
+              16.514693645833333
+            ],
+            [
+              80.48641640625,
+              16.5159084375
+            ],
+            [
+              80.48548671875,
+              16.5159084375
+            ],
+            [
+              80.48548671875,
+              16.514693645833333
+            ],
+            [
+              80.48641640625,
+              16.514693645833333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0124",
+        "parcel_id": "APCRDA-U18-LPS-0124",
+        "sanctioned_date": "2021-05-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48797890625,
+              16.514693645833333
+            ],
+            [
+              80.48797890625,
+              16.5159084375
+            ],
+            [
+              80.48704921875,
+              16.5159084375
+            ],
+            [
+              80.48704921875,
+              16.514693645833333
+            ],
+            [
+              80.48797890625,
+              16.514693645833333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0125",
+        "parcel_id": "APCRDA-U18-LPS-0125",
+        "sanctioned_date": "2021-06-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48954140625,
+              16.514693645833333
+            ],
+            [
+              80.48954140625,
+              16.5159084375
+            ],
+            [
+              80.48861171875,
+              16.5159084375
+            ],
+            [
+              80.48861171875,
+              16.514693645833333
+            ],
+            [
+              80.48954140625,
+              16.514693645833333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0126",
+        "parcel_id": "APCRDA-U18-LPS-0126",
+        "sanctioned_date": "2021-07-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46922890625001,
+              16.5167353125
+            ],
+            [
+              80.46922890625001,
+              16.517950104166665
+            ],
+            [
+              80.46829921875,
+              16.517950104166665
+            ],
+            [
+              80.46829921875,
+              16.5167353125
+            ],
+            [
+              80.46922890625001,
+              16.5167353125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0127",
+        "parcel_id": "APCRDA-U18-LPS-0127",
+        "sanctioned_date": "2021-08-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47079140625002,
+              16.5167353125
+            ],
+            [
+              80.47079140625002,
+              16.517950104166665
+            ],
+            [
+              80.46986171875001,
+              16.517950104166665
+            ],
+            [
+              80.46986171875001,
+              16.5167353125
+            ],
+            [
+              80.47079140625002,
+              16.5167353125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0128",
+        "parcel_id": "APCRDA-U18-LPS-0128",
+        "sanctioned_date": "2021-09-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47235390625,
+              16.5167353125
+            ],
+            [
+              80.47235390625,
+              16.517950104166665
+            ],
+            [
+              80.47142421875,
+              16.517950104166665
+            ],
+            [
+              80.47142421875,
+              16.5167353125
+            ],
+            [
+              80.47235390625,
+              16.5167353125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0129",
+        "parcel_id": "APCRDA-U18-LPS-0129",
+        "sanctioned_date": "2021-10-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47391640625001,
+              16.5167353125
+            ],
+            [
+              80.47391640625001,
+              16.517950104166665
+            ],
+            [
+              80.47298671875001,
+              16.517950104166665
+            ],
+            [
+              80.47298671875001,
+              16.5167353125
+            ],
+            [
+              80.47391640625001,
+              16.5167353125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0130",
+        "parcel_id": "APCRDA-U18-LPS-0130",
+        "sanctioned_date": "2021-11-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47547890625,
+              16.5167353125
+            ],
+            [
+              80.47547890625,
+              16.517950104166665
+            ],
+            [
+              80.47454921875,
+              16.517950104166665
+            ],
+            [
+              80.47454921875,
+              16.5167353125
+            ],
+            [
+              80.47547890625,
+              16.5167353125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0131",
+        "parcel_id": "APCRDA-U18-LPS-0131",
+        "sanctioned_date": "2021-12-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47704140625001,
+              16.5167353125
+            ],
+            [
+              80.47704140625001,
+              16.517950104166665
+            ],
+            [
+              80.47611171875,
+              16.517950104166665
+            ],
+            [
+              80.47611171875,
+              16.5167353125
+            ],
+            [
+              80.47704140625001,
+              16.5167353125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0132",
+        "parcel_id": "APCRDA-U18-LPS-0132",
+        "sanctioned_date": "2021-01-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47860390625,
+              16.5167353125
+            ],
+            [
+              80.47860390625,
+              16.517950104166665
+            ],
+            [
+              80.47767421875,
+              16.517950104166665
+            ],
+            [
+              80.47767421875,
+              16.5167353125
+            ],
+            [
+              80.47860390625,
+              16.5167353125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0133",
+        "parcel_id": "APCRDA-U18-LPS-0133",
+        "sanctioned_date": "2021-02-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48016640625,
+              16.5167353125
+            ],
+            [
+              80.48016640625,
+              16.517950104166665
+            ],
+            [
+              80.47923671875,
+              16.517950104166665
+            ],
+            [
+              80.47923671875,
+              16.5167353125
+            ],
+            [
+              80.48016640625,
+              16.5167353125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0134",
+        "parcel_id": "APCRDA-U18-LPS-0134",
+        "sanctioned_date": "2021-03-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48172890625001,
+              16.5167353125
+            ],
+            [
+              80.48172890625001,
+              16.517950104166665
+            ],
+            [
+              80.48079921875001,
+              16.517950104166665
+            ],
+            [
+              80.48079921875001,
+              16.5167353125
+            ],
+            [
+              80.48172890625001,
+              16.5167353125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0135",
+        "parcel_id": "APCRDA-U18-LPS-0135",
+        "sanctioned_date": "2021-04-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48329140625,
+              16.5167353125
+            ],
+            [
+              80.48329140625,
+              16.517950104166665
+            ],
+            [
+              80.48236171875,
+              16.517950104166665
+            ],
+            [
+              80.48236171875,
+              16.5167353125
+            ],
+            [
+              80.48329140625,
+              16.5167353125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0136",
+        "parcel_id": "APCRDA-U18-LPS-0136",
+        "sanctioned_date": "2021-05-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48485390625001,
+              16.5167353125
+            ],
+            [
+              80.48485390625001,
+              16.517950104166665
+            ],
+            [
+              80.48392421875,
+              16.517950104166665
+            ],
+            [
+              80.48392421875,
+              16.5167353125
+            ],
+            [
+              80.48485390625001,
+              16.5167353125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0137",
+        "parcel_id": "APCRDA-U18-LPS-0137",
+        "sanctioned_date": "2021-06-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48641640625,
+              16.5167353125
+            ],
+            [
+              80.48641640625,
+              16.517950104166665
+            ],
+            [
+              80.48548671875,
+              16.517950104166665
+            ],
+            [
+              80.48548671875,
+              16.5167353125
+            ],
+            [
+              80.48641640625,
+              16.5167353125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0138",
+        "parcel_id": "APCRDA-U18-LPS-0138",
+        "sanctioned_date": "2021-07-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48797890625,
+              16.5167353125
+            ],
+            [
+              80.48797890625,
+              16.517950104166665
+            ],
+            [
+              80.48704921875,
+              16.517950104166665
+            ],
+            [
+              80.48704921875,
+              16.5167353125
+            ],
+            [
+              80.48797890625,
+              16.5167353125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0139",
+        "parcel_id": "APCRDA-U18-LPS-0139",
+        "sanctioned_date": "2021-08-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "UNASSESSED_STRUCTURE",
+        "gt_actual_floors": "G+1",
+        "gt_actual_height_m": 6.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48954140625,
+              16.5167353125
+            ],
+            [
+              80.48954140625,
+              16.517950104166665
+            ],
+            [
+              80.48861171875,
+              16.517950104166665
+            ],
+            [
+              80.48861171875,
+              16.5167353125
+            ],
+            [
+              80.48954140625,
+              16.5167353125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0140",
+        "parcel_id": "APCRDA-U18-LPS-0140",
+        "sanctioned_date": "2021-09-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46922890625001,
+              16.518776979166667
+            ],
+            [
+              80.46922890625001,
+              16.519991770833332
+            ],
+            [
+              80.46829921875,
+              16.519991770833332
+            ],
+            [
+              80.46829921875,
+              16.518776979166667
+            ],
+            [
+              80.46922890625001,
+              16.518776979166667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0141",
+        "parcel_id": "APCRDA-U18-LPS-0141",
+        "sanctioned_date": "2021-10-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47079140625002,
+              16.518776979166667
+            ],
+            [
+              80.47079140625002,
+              16.519991770833332
+            ],
+            [
+              80.46986171875001,
+              16.519991770833332
+            ],
+            [
+              80.46986171875001,
+              16.518776979166667
+            ],
+            [
+              80.47079140625002,
+              16.518776979166667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0142",
+        "parcel_id": "APCRDA-U18-LPS-0142",
+        "sanctioned_date": "2021-11-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47235390625,
+              16.518776979166667
+            ],
+            [
+              80.47235390625,
+              16.519991770833332
+            ],
+            [
+              80.47142421875,
+              16.519991770833332
+            ],
+            [
+              80.47142421875,
+              16.518776979166667
+            ],
+            [
+              80.47235390625,
+              16.518776979166667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0143",
+        "parcel_id": "APCRDA-U18-LPS-0143",
+        "sanctioned_date": "2021-12-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "UNASSESSED_STRUCTURE",
+        "gt_actual_floors": "G+1",
+        "gt_actual_height_m": 6.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47391640625001,
+              16.518776979166667
+            ],
+            [
+              80.47391640625001,
+              16.519991770833332
+            ],
+            [
+              80.47298671875001,
+              16.519991770833332
+            ],
+            [
+              80.47298671875001,
+              16.518776979166667
+            ],
+            [
+              80.47391640625001,
+              16.518776979166667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0144",
+        "parcel_id": "APCRDA-U18-LPS-0144",
+        "sanctioned_date": "2021-01-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47547890625,
+              16.518776979166667
+            ],
+            [
+              80.47547890625,
+              16.519991770833332
+            ],
+            [
+              80.47454921875,
+              16.519991770833332
+            ],
+            [
+              80.47454921875,
+              16.518776979166667
+            ],
+            [
+              80.47547890625,
+              16.518776979166667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0145",
+        "parcel_id": "APCRDA-U18-LPS-0145",
+        "sanctioned_date": "2021-02-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47704140625001,
+              16.518776979166667
+            ],
+            [
+              80.47704140625001,
+              16.519991770833332
+            ],
+            [
+              80.47611171875,
+              16.519991770833332
+            ],
+            [
+              80.47611171875,
+              16.518776979166667
+            ],
+            [
+              80.47704140625001,
+              16.518776979166667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0146",
+        "parcel_id": "APCRDA-U18-LPS-0146",
+        "sanctioned_date": "2021-03-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47860390625,
+              16.518776979166667
+            ],
+            [
+              80.47860390625,
+              16.519991770833332
+            ],
+            [
+              80.47767421875,
+              16.519991770833332
+            ],
+            [
+              80.47767421875,
+              16.518776979166667
+            ],
+            [
+              80.47860390625,
+              16.518776979166667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0147",
+        "parcel_id": "APCRDA-U18-LPS-0147",
+        "sanctioned_date": "2021-04-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48016640625,
+              16.518776979166667
+            ],
+            [
+              80.48016640625,
+              16.519991770833332
+            ],
+            [
+              80.47923671875,
+              16.519991770833332
+            ],
+            [
+              80.47923671875,
+              16.518776979166667
+            ],
+            [
+              80.48016640625,
+              16.518776979166667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0148",
+        "parcel_id": "APCRDA-U18-LPS-0148",
+        "sanctioned_date": "2021-05-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48172890625001,
+              16.518776979166667
+            ],
+            [
+              80.48172890625001,
+              16.519991770833332
+            ],
+            [
+              80.48079921875001,
+              16.519991770833332
+            ],
+            [
+              80.48079921875001,
+              16.518776979166667
+            ],
+            [
+              80.48172890625001,
+              16.518776979166667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0149",
+        "parcel_id": "APCRDA-U18-LPS-0149",
+        "sanctioned_date": "2021-06-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48329140625,
+              16.518776979166667
+            ],
+            [
+              80.48329140625,
+              16.519991770833332
+            ],
+            [
+              80.48236171875,
+              16.519991770833332
+            ],
+            [
+              80.48236171875,
+              16.518776979166667
+            ],
+            [
+              80.48329140625,
+              16.518776979166667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0150",
+        "parcel_id": "APCRDA-U18-LPS-0150",
+        "sanctioned_date": "2021-07-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48485390625001,
+              16.518776979166667
+            ],
+            [
+              80.48485390625001,
+              16.519991770833332
+            ],
+            [
+              80.48392421875,
+              16.519991770833332
+            ],
+            [
+              80.48392421875,
+              16.518776979166667
+            ],
+            [
+              80.48485390625001,
+              16.518776979166667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0151",
+        "parcel_id": "APCRDA-U18-LPS-0151",
+        "sanctioned_date": "2021-08-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48641640625,
+              16.518776979166667
+            ],
+            [
+              80.48641640625,
+              16.519991770833332
+            ],
+            [
+              80.48548671875,
+              16.519991770833332
+            ],
+            [
+              80.48548671875,
+              16.518776979166667
+            ],
+            [
+              80.48641640625,
+              16.518776979166667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0152",
+        "parcel_id": "APCRDA-U18-LPS-0152",
+        "sanctioned_date": "2021-09-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48797890625,
+              16.518776979166667
+            ],
+            [
+              80.48797890625,
+              16.519991770833332
+            ],
+            [
+              80.48704921875,
+              16.519991770833332
+            ],
+            [
+              80.48704921875,
+              16.518776979166667
+            ],
+            [
+              80.48797890625,
+              16.518776979166667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0153",
+        "parcel_id": "APCRDA-U18-LPS-0153",
+        "sanctioned_date": "2021-10-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48954140625,
+              16.518776979166667
+            ],
+            [
+              80.48954140625,
+              16.519991770833332
+            ],
+            [
+              80.48861171875,
+              16.519991770833332
+            ],
+            [
+              80.48861171875,
+              16.518776979166667
+            ],
+            [
+              80.48954140625,
+              16.518776979166667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0154",
+        "parcel_id": "APCRDA-U18-LPS-0154",
+        "sanctioned_date": "2021-11-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "VERTICAL_FLOOR_DEVIATION",
+        "gt_actual_floors": "G+4",
+        "gt_actual_height_m": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46922890625001,
+              16.520818645833334
+            ],
+            [
+              80.46922890625001,
+              16.5220334375
+            ],
+            [
+              80.46829921875,
+              16.5220334375
+            ],
+            [
+              80.46829921875,
+              16.520818645833334
+            ],
+            [
+              80.46922890625001,
+              16.520818645833334
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0155",
+        "parcel_id": "APCRDA-U18-LPS-0155",
+        "sanctioned_date": "2021-12-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47079140625002,
+              16.520818645833334
+            ],
+            [
+              80.47079140625002,
+              16.5220334375
+            ],
+            [
+              80.46986171875001,
+              16.5220334375
+            ],
+            [
+              80.46986171875001,
+              16.520818645833334
+            ],
+            [
+              80.47079140625002,
+              16.520818645833334
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0156",
+        "parcel_id": "APCRDA-U18-LPS-0156",
+        "sanctioned_date": "2021-01-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "HORIZONTAL_SETBACK_ENCROACHMENT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47235390625,
+              16.520818645833334
+            ],
+            [
+              80.47235390625,
+              16.5220334375
+            ],
+            [
+              80.47142421875,
+              16.5220334375
+            ],
+            [
+              80.47142421875,
+              16.520818645833334
+            ],
+            [
+              80.47235390625,
+              16.520818645833334
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0157",
+        "parcel_id": "APCRDA-U18-LPS-0157",
+        "sanctioned_date": "2021-02-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47391640625001,
+              16.520818645833334
+            ],
+            [
+              80.47391640625001,
+              16.5220334375
+            ],
+            [
+              80.47298671875001,
+              16.5220334375
+            ],
+            [
+              80.47298671875001,
+              16.520818645833334
+            ],
+            [
+              80.47391640625001,
+              16.520818645833334
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0158",
+        "parcel_id": "APCRDA-U18-LPS-0158",
+        "sanctioned_date": "2021-03-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47547890625,
+              16.520818645833334
+            ],
+            [
+              80.47547890625,
+              16.5220334375
+            ],
+            [
+              80.47454921875,
+              16.5220334375
+            ],
+            [
+              80.47454921875,
+              16.520818645833334
+            ],
+            [
+              80.47547890625,
+              16.520818645833334
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0159",
+        "parcel_id": "APCRDA-U18-LPS-0159",
+        "sanctioned_date": "2021-04-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "COMPLIANT",
+        "gt_actual_floors": "G+2",
+        "gt_actual_height_m": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47704140625001,
+              16.520818645833334
+            ],
+            [
+              80.47704140625001,
+              16.5220334375
+            ],
+            [
+              80.47611171875,
+              16.5220334375
+            ],
+            [
+              80.47611171875,
+              16.520818645833334
+            ],
+            [
+              80.47704140625001,
+              16.520818645833334
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "permit_id": "APCRDA/2021/BP-0160",
+        "parcel_id": "APCRDA-U18-LPS-0160",
+        "sanctioned_date": "2021-05-15",
+        "permitted_floors": "G+2",
+        "permitted_height_m": 9.0,
+        "sanctioned_plinth_sqft": 17009.4,
+        "sanctioned_builtup_sqft": 51028.200000000004,
+        "gt_violation_profile": "UNASSESSED_STRUCTURE",
+        "gt_actual_floors": "G+1",
+        "gt_actual_height_m": 6.0
+      }
+    }
+  ]
+}

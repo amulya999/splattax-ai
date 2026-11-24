@@ -1,0 +1,6725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46942812500001,
+              16.4981
+            ],
+            [
+              80.46942812500001,
+              16.499835416666667
+            ],
+            [
+              80.4681,
+              16.499835416666667
+            ],
+            [
+              80.4681,
+              16.4981
+            ],
+            [
+              80.46942812500001,
+              16.4981
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0001",
+        "survey_no": "101/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Muvva Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47099062500001,
+              16.4981
+            ],
+            [
+              80.47099062500001,
+              16.499835416666667
+            ],
+            [
+              80.46966250000001,
+              16.499835416666667
+            ],
+            [
+              80.46966250000001,
+              16.4981
+            ],
+            [
+              80.47099062500001,
+              16.4981
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0002",
+        "survey_no": "102/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Kommineni Krishna",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.472553125,
+              16.4981
+            ],
+            [
+              80.472553125,
+              16.499835416666667
+            ],
+            [
+              80.471225,
+              16.499835416666667
+            ],
+            [
+              80.471225,
+              16.4981
+            ],
+            [
+              80.472553125,
+              16.4981
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0003",
+        "survey_no": "103/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Lakshmi",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47411562500001,
+              16.4981
+            ],
+            [
+              80.47411562500001,
+              16.499835416666667
+            ],
+            [
+              80.47278750000001,
+              16.499835416666667
+            ],
+            [
+              80.47278750000001,
+              16.4981
+            ],
+            [
+              80.47411562500001,
+              16.4981
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0004",
+        "survey_no": "104/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Gogineni Krishna",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.475678125,
+              16.4981
+            ],
+            [
+              80.475678125,
+              16.499835416666667
+            ],
+            [
+              80.47435,
+              16.499835416666667
+            ],
+            [
+              80.47435,
+              16.4981
+            ],
+            [
+              80.475678125,
+              16.4981
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0005",
+        "survey_no": "105/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Atluri Krishna",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47724062500001,
+              16.4981
+            ],
+            [
+              80.47724062500001,
+              16.499835416666667
+            ],
+            [
+              80.4759125,
+              16.499835416666667
+            ],
+            [
+              80.4759125,
+              16.4981
+            ],
+            [
+              80.47724062500001,
+              16.4981
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0006",
+        "survey_no": "106/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Muvva Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.478803125,
+              16.4981
+            ],
+            [
+              80.478803125,
+              16.499835416666667
+            ],
+            [
+              80.477475,
+              16.499835416666667
+            ],
+            [
+              80.477475,
+              16.4981
+            ],
+            [
+              80.478803125,
+              16.4981
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0007",
+        "survey_no": "107/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Unassessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.480365625,
+              16.4981
+            ],
+            [
+              80.480365625,
+              16.499835416666667
+            ],
+            [
+              80.4790375,
+              16.499835416666667
+            ],
+            [
+              80.4790375,
+              16.4981
+            ],
+            [
+              80.480365625,
+              16.4981
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0008",
+        "survey_no": "108/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Kommineni Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48192812500001,
+              16.4981
+            ],
+            [
+              80.48192812500001,
+              16.499835416666667
+            ],
+            [
+              80.48060000000001,
+              16.499835416666667
+            ],
+            [
+              80.48060000000001,
+              16.4981
+            ],
+            [
+              80.48192812500001,
+              16.4981
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0009",
+        "survey_no": "109/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Muvva Lakshmi",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.483490625,
+              16.4981
+            ],
+            [
+              80.483490625,
+              16.499835416666667
+            ],
+            [
+              80.4821625,
+              16.499835416666667
+            ],
+            [
+              80.4821625,
+              16.4981
+            ],
+            [
+              80.483490625,
+              16.4981
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0010",
+        "survey_no": "110/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Krishna",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48505312500001,
+              16.4981
+            ],
+            [
+              80.48505312500001,
+              16.499835416666667
+            ],
+            [
+              80.483725,
+              16.499835416666667
+            ],
+            [
+              80.483725,
+              16.4981
+            ],
+            [
+              80.48505312500001,
+              16.4981
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0011",
+        "survey_no": "111/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Atluri Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.486615625,
+              16.4981
+            ],
+            [
+              80.486615625,
+              16.499835416666667
+            ],
+            [
+              80.4852875,
+              16.499835416666667
+            ],
+            [
+              80.4852875,
+              16.4981
+            ],
+            [
+              80.486615625,
+              16.4981
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0012",
+        "survey_no": "112/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Kommineni Lakshmi",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.488178125,
+              16.4981
+            ],
+            [
+              80.488178125,
+              16.499835416666667
+            ],
+            [
+              80.48685,
+              16.499835416666667
+            ],
+            [
+              80.48685,
+              16.4981
+            ],
+            [
+              80.488178125,
+              16.4981
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0013",
+        "survey_no": "113/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Bollineni Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Unassessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.489740625,
+              16.4981
+            ],
+            [
+              80.489740625,
+              16.499835416666667
+            ],
+            [
+              80.4884125,
+              16.499835416666667
+            ],
+            [
+              80.4884125,
+              16.4981
+            ],
+            [
+              80.489740625,
+              16.4981
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0014",
+        "survey_no": "114/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Bollineni Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Unassessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46942812500001,
+              16.500141666666668
+            ],
+            [
+              80.46942812500001,
+              16.501877083333333
+            ],
+            [
+              80.4681,
+              16.501877083333333
+            ],
+            [
+              80.4681,
+              16.500141666666668
+            ],
+            [
+              80.46942812500001,
+              16.500141666666668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0015",
+        "survey_no": "115/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Muvva Venkateswara",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47099062500001,
+              16.500141666666668
+            ],
+            [
+              80.47099062500001,
+              16.501877083333333
+            ],
+            [
+              80.46966250000001,
+              16.501877083333333
+            ],
+            [
+              80.46966250000001,
+              16.500141666666668
+            ],
+            [
+              80.47099062500001,
+              16.500141666666668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0016",
+        "survey_no": "116/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Bollineni Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.472553125,
+              16.500141666666668
+            ],
+            [
+              80.472553125,
+              16.501877083333333
+            ],
+            [
+              80.471225,
+              16.501877083333333
+            ],
+            [
+              80.471225,
+              16.500141666666668
+            ],
+            [
+              80.472553125,
+              16.500141666666668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0017",
+        "survey_no": "117/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Yalamanchili Venkateswara",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47411562500001,
+              16.500141666666668
+            ],
+            [
+              80.47411562500001,
+              16.501877083333333
+            ],
+            [
+              80.47278750000001,
+              16.501877083333333
+            ],
+            [
+              80.47278750000001,
+              16.500141666666668
+            ],
+            [
+              80.47411562500001,
+              16.500141666666668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0018",
+        "survey_no": "118/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Yalamanchili Venkateswara",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.475678125,
+              16.500141666666668
+            ],
+            [
+              80.475678125,
+              16.501877083333333
+            ],
+            [
+              80.47435,
+              16.501877083333333
+            ],
+            [
+              80.47435,
+              16.500141666666668
+            ],
+            [
+              80.475678125,
+              16.500141666666668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0019",
+        "survey_no": "119/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Nannapaneni Krishna",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47724062500001,
+              16.500141666666668
+            ],
+            [
+              80.47724062500001,
+              16.501877083333333
+            ],
+            [
+              80.4759125,
+              16.501877083333333
+            ],
+            [
+              80.4759125,
+              16.500141666666668
+            ],
+            [
+              80.47724062500001,
+              16.500141666666668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0020",
+        "survey_no": "120/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Venkateswara",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.478803125,
+              16.500141666666668
+            ],
+            [
+              80.478803125,
+              16.501877083333333
+            ],
+            [
+              80.477475,
+              16.501877083333333
+            ],
+            [
+              80.477475,
+              16.500141666666668
+            ],
+            [
+              80.478803125,
+              16.500141666666668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0021",
+        "survey_no": "121/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Atluri Chowdary",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.480365625,
+              16.500141666666668
+            ],
+            [
+              80.480365625,
+              16.501877083333333
+            ],
+            [
+              80.4790375,
+              16.501877083333333
+            ],
+            [
+              80.4790375,
+              16.500141666666668
+            ],
+            [
+              80.480365625,
+              16.500141666666668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0022",
+        "survey_no": "122/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Lakshmi",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48192812500001,
+              16.500141666666668
+            ],
+            [
+              80.48192812500001,
+              16.501877083333333
+            ],
+            [
+              80.48060000000001,
+              16.501877083333333
+            ],
+            [
+              80.48060000000001,
+              16.500141666666668
+            ],
+            [
+              80.48192812500001,
+              16.500141666666668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0023",
+        "survey_no": "123/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Bollineni Chowdary",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.483490625,
+              16.500141666666668
+            ],
+            [
+              80.483490625,
+              16.501877083333333
+            ],
+            [
+              80.4821625,
+              16.501877083333333
+            ],
+            [
+              80.4821625,
+              16.500141666666668
+            ],
+            [
+              80.483490625,
+              16.500141666666668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0024",
+        "survey_no": "124/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Kommineni Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48505312500001,
+              16.500141666666668
+            ],
+            [
+              80.48505312500001,
+              16.501877083333333
+            ],
+            [
+              80.483725,
+              16.501877083333333
+            ],
+            [
+              80.483725,
+              16.500141666666668
+            ],
+            [
+              80.48505312500001,
+              16.500141666666668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0025",
+        "survey_no": "125/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Kommineni Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.486615625,
+              16.500141666666668
+            ],
+            [
+              80.486615625,
+              16.501877083333333
+            ],
+            [
+              80.4852875,
+              16.501877083333333
+            ],
+            [
+              80.4852875,
+              16.500141666666668
+            ],
+            [
+              80.486615625,
+              16.500141666666668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0026",
+        "survey_no": "126/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Yalamanchili Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.488178125,
+              16.500141666666668
+            ],
+            [
+              80.488178125,
+              16.501877083333333
+            ],
+            [
+              80.48685,
+              16.501877083333333
+            ],
+            [
+              80.48685,
+              16.500141666666668
+            ],
+            [
+              80.488178125,
+              16.500141666666668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0027",
+        "survey_no": "127/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Gogineni Naidu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.489740625,
+              16.500141666666668
+            ],
+            [
+              80.489740625,
+              16.501877083333333
+            ],
+            [
+              80.4884125,
+              16.501877083333333
+            ],
+            [
+              80.4884125,
+              16.500141666666668
+            ],
+            [
+              80.489740625,
+              16.500141666666668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0028",
+        "survey_no": "128/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Atluri Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46942812500001,
+              16.502183333333335
+            ],
+            [
+              80.46942812500001,
+              16.50391875
+            ],
+            [
+              80.4681,
+              16.50391875
+            ],
+            [
+              80.4681,
+              16.502183333333335
+            ],
+            [
+              80.46942812500001,
+              16.502183333333335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0029",
+        "survey_no": "129/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Kommineni Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Unassessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47099062500001,
+              16.502183333333335
+            ],
+            [
+              80.47099062500001,
+              16.50391875
+            ],
+            [
+              80.46966250000001,
+              16.50391875
+            ],
+            [
+              80.46966250000001,
+              16.502183333333335
+            ],
+            [
+              80.47099062500001,
+              16.502183333333335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0030",
+        "survey_no": "130/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Nannapaneni Krishna",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Unassessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.472553125,
+              16.502183333333335
+            ],
+            [
+              80.472553125,
+              16.50391875
+            ],
+            [
+              80.471225,
+              16.50391875
+            ],
+            [
+              80.471225,
+              16.502183333333335
+            ],
+            [
+              80.472553125,
+              16.502183333333335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0031",
+        "survey_no": "131/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Atluri Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47411562500001,
+              16.502183333333335
+            ],
+            [
+              80.47411562500001,
+              16.50391875
+            ],
+            [
+              80.47278750000001,
+              16.50391875
+            ],
+            [
+              80.47278750000001,
+              16.502183333333335
+            ],
+            [
+              80.47411562500001,
+              16.502183333333335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0032",
+        "survey_no": "132/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Kommineni Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.475678125,
+              16.502183333333335
+            ],
+            [
+              80.475678125,
+              16.50391875
+            ],
+            [
+              80.47435,
+              16.50391875
+            ],
+            [
+              80.47435,
+              16.502183333333335
+            ],
+            [
+              80.475678125,
+              16.502183333333335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0033",
+        "survey_no": "133/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Atluri Lakshmi",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47724062500001,
+              16.502183333333335
+            ],
+            [
+              80.47724062500001,
+              16.50391875
+            ],
+            [
+              80.4759125,
+              16.50391875
+            ],
+            [
+              80.4759125,
+              16.502183333333335
+            ],
+            [
+              80.47724062500001,
+              16.502183333333335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0034",
+        "survey_no": "134/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Gogineni Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.478803125,
+              16.502183333333335
+            ],
+            [
+              80.478803125,
+              16.50391875
+            ],
+            [
+              80.477475,
+              16.50391875
+            ],
+            [
+              80.477475,
+              16.502183333333335
+            ],
+            [
+              80.478803125,
+              16.502183333333335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0035",
+        "survey_no": "135/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Bollineni Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.480365625,
+              16.502183333333335
+            ],
+            [
+              80.480365625,
+              16.50391875
+            ],
+            [
+              80.4790375,
+              16.50391875
+            ],
+            [
+              80.4790375,
+              16.502183333333335
+            ],
+            [
+              80.480365625,
+              16.502183333333335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0036",
+        "survey_no": "136/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Muvva Krishna",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48192812500001,
+              16.502183333333335
+            ],
+            [
+              80.48192812500001,
+              16.50391875
+            ],
+            [
+              80.48060000000001,
+              16.50391875
+            ],
+            [
+              80.48060000000001,
+              16.502183333333335
+            ],
+            [
+              80.48192812500001,
+              16.502183333333335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0037",
+        "survey_no": "137/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Gogineni Venkateswara",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.483490625,
+              16.502183333333335
+            ],
+            [
+              80.483490625,
+              16.50391875
+            ],
+            [
+              80.4821625,
+              16.50391875
+            ],
+            [
+              80.4821625,
+              16.502183333333335
+            ],
+            [
+              80.483490625,
+              16.502183333333335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0038",
+        "survey_no": "138/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Yalamanchili Venkateswara",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48505312500001,
+              16.502183333333335
+            ],
+            [
+              80.48505312500001,
+              16.50391875
+            ],
+            [
+              80.483725,
+              16.50391875
+            ],
+            [
+              80.483725,
+              16.502183333333335
+            ],
+            [
+              80.48505312500001,
+              16.502183333333335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0039",
+        "survey_no": "139/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Babu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.486615625,
+              16.502183333333335
+            ],
+            [
+              80.486615625,
+              16.50391875
+            ],
+            [
+              80.4852875,
+              16.50391875
+            ],
+            [
+              80.4852875,
+              16.502183333333335
+            ],
+            [
+              80.486615625,
+              16.502183333333335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0040",
+        "survey_no": "140/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Bollineni Babu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.488178125,
+              16.502183333333335
+            ],
+            [
+              80.488178125,
+              16.50391875
+            ],
+            [
+              80.48685,
+              16.50391875
+            ],
+            [
+              80.48685,
+              16.502183333333335
+            ],
+            [
+              80.488178125,
+              16.502183333333335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0041",
+        "survey_no": "141/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Nannapaneni Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.489740625,
+              16.502183333333335
+            ],
+            [
+              80.489740625,
+              16.50391875
+            ],
+            [
+              80.4884125,
+              16.50391875
+            ],
+            [
+              80.4884125,
+              16.502183333333335
+            ],
+            [
+              80.489740625,
+              16.502183333333335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0042",
+        "survey_no": "142/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Atluri Babu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46942812500001,
+              16.504225
+            ],
+            [
+              80.46942812500001,
+              16.505960416666667
+            ],
+            [
+              80.4681,
+              16.505960416666667
+            ],
+            [
+              80.4681,
+              16.504225
+            ],
+            [
+              80.46942812500001,
+              16.504225
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0043",
+        "survey_no": "143/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Nannapaneni Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47099062500001,
+              16.504225
+            ],
+            [
+              80.47099062500001,
+              16.505960416666667
+            ],
+            [
+              80.46966250000001,
+              16.505960416666667
+            ],
+            [
+              80.46966250000001,
+              16.504225
+            ],
+            [
+              80.47099062500001,
+              16.504225
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0044",
+        "survey_no": "144/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Gogineni Venkateswara",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.472553125,
+              16.504225
+            ],
+            [
+              80.472553125,
+              16.505960416666667
+            ],
+            [
+              80.471225,
+              16.505960416666667
+            ],
+            [
+              80.471225,
+              16.504225
+            ],
+            [
+              80.472553125,
+              16.504225
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0045",
+        "survey_no": "100/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Yalamanchili Lakshmi",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Unassessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47411562500001,
+              16.504225
+            ],
+            [
+              80.47411562500001,
+              16.505960416666667
+            ],
+            [
+              80.47278750000001,
+              16.505960416666667
+            ],
+            [
+              80.47278750000001,
+              16.504225
+            ],
+            [
+              80.47411562500001,
+              16.504225
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0046",
+        "survey_no": "101/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Kommineni Chowdary",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Unassessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.475678125,
+              16.504225
+            ],
+            [
+              80.475678125,
+              16.505960416666667
+            ],
+            [
+              80.47435,
+              16.505960416666667
+            ],
+            [
+              80.47435,
+              16.504225
+            ],
+            [
+              80.475678125,
+              16.504225
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0047",
+        "survey_no": "102/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Kommineni Lakshmi",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47724062500001,
+              16.504225
+            ],
+            [
+              80.47724062500001,
+              16.505960416666667
+            ],
+            [
+              80.4759125,
+              16.505960416666667
+            ],
+            [
+              80.4759125,
+              16.504225
+            ],
+            [
+              80.47724062500001,
+              16.504225
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0048",
+        "survey_no": "103/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Atluri Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.478803125,
+              16.504225
+            ],
+            [
+              80.478803125,
+              16.505960416666667
+            ],
+            [
+              80.477475,
+              16.505960416666667
+            ],
+            [
+              80.477475,
+              16.504225
+            ],
+            [
+              80.478803125,
+              16.504225
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0049",
+        "survey_no": "104/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Kommineni Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.480365625,
+              16.504225
+            ],
+            [
+              80.480365625,
+              16.505960416666667
+            ],
+            [
+              80.4790375,
+              16.505960416666667
+            ],
+            [
+              80.4790375,
+              16.504225
+            ],
+            [
+              80.480365625,
+              16.504225
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0050",
+        "survey_no": "105/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Gogineni Naidu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48192812500001,
+              16.504225
+            ],
+            [
+              80.48192812500001,
+              16.505960416666667
+            ],
+            [
+              80.48060000000001,
+              16.505960416666667
+            ],
+            [
+              80.48060000000001,
+              16.504225
+            ],
+            [
+              80.48192812500001,
+              16.504225
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0051",
+        "survey_no": "106/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Nannapaneni Lakshmi",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.483490625,
+              16.504225
+            ],
+            [
+              80.483490625,
+              16.505960416666667
+            ],
+            [
+              80.4821625,
+              16.505960416666667
+            ],
+            [
+              80.4821625,
+              16.504225
+            ],
+            [
+              80.483490625,
+              16.504225
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0052",
+        "survey_no": "107/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Nannapaneni Chowdary",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48505312500001,
+              16.504225
+            ],
+            [
+              80.48505312500001,
+              16.505960416666667
+            ],
+            [
+              80.483725,
+              16.505960416666667
+            ],
+            [
+              80.483725,
+              16.504225
+            ],
+            [
+              80.48505312500001,
+              16.504225
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0053",
+        "survey_no": "108/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Yalamanchili Chowdary",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.486615625,
+              16.504225
+            ],
+            [
+              80.486615625,
+              16.505960416666667
+            ],
+            [
+              80.4852875,
+              16.505960416666667
+            ],
+            [
+              80.4852875,
+              16.504225
+            ],
+            [
+              80.486615625,
+              16.504225
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0054",
+        "survey_no": "109/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Kommineni Naidu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.488178125,
+              16.504225
+            ],
+            [
+              80.488178125,
+              16.505960416666667
+            ],
+            [
+              80.48685,
+              16.505960416666667
+            ],
+            [
+              80.48685,
+              16.504225
+            ],
+            [
+              80.488178125,
+              16.504225
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0055",
+        "survey_no": "110/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Bollineni Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Unassessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.489740625,
+              16.504225
+            ],
+            [
+              80.489740625,
+              16.505960416666667
+            ],
+            [
+              80.4884125,
+              16.505960416666667
+            ],
+            [
+              80.4884125,
+              16.504225
+            ],
+            [
+              80.489740625,
+              16.504225
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0056",
+        "survey_no": "111/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46942812500001,
+              16.50626666666667
+            ],
+            [
+              80.46942812500001,
+              16.508002083333334
+            ],
+            [
+              80.4681,
+              16.508002083333334
+            ],
+            [
+              80.4681,
+              16.50626666666667
+            ],
+            [
+              80.46942812500001,
+              16.50626666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0057",
+        "survey_no": "112/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Chalasani Babu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47099062500001,
+              16.50626666666667
+            ],
+            [
+              80.47099062500001,
+              16.508002083333334
+            ],
+            [
+              80.46966250000001,
+              16.508002083333334
+            ],
+            [
+              80.46966250000001,
+              16.50626666666667
+            ],
+            [
+              80.47099062500001,
+              16.50626666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0058",
+        "survey_no": "113/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Bollineni Chowdary",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.472553125,
+              16.50626666666667
+            ],
+            [
+              80.472553125,
+              16.508002083333334
+            ],
+            [
+              80.471225,
+              16.508002083333334
+            ],
+            [
+              80.471225,
+              16.50626666666667
+            ],
+            [
+              80.472553125,
+              16.50626666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0059",
+        "survey_no": "114/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Chalasani Lakshmi",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47411562500001,
+              16.50626666666667
+            ],
+            [
+              80.47411562500001,
+              16.508002083333334
+            ],
+            [
+              80.47278750000001,
+              16.508002083333334
+            ],
+            [
+              80.47278750000001,
+              16.50626666666667
+            ],
+            [
+              80.47411562500001,
+              16.50626666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0060",
+        "survey_no": "115/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Yalamanchili Krishna",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.475678125,
+              16.50626666666667
+            ],
+            [
+              80.475678125,
+              16.508002083333334
+            ],
+            [
+              80.47435,
+              16.508002083333334
+            ],
+            [
+              80.47435,
+              16.50626666666667
+            ],
+            [
+              80.475678125,
+              16.50626666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0061",
+        "survey_no": "116/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Kommineni Babu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47724062500001,
+              16.50626666666667
+            ],
+            [
+              80.47724062500001,
+              16.508002083333334
+            ],
+            [
+              80.4759125,
+              16.508002083333334
+            ],
+            [
+              80.4759125,
+              16.50626666666667
+            ],
+            [
+              80.47724062500001,
+              16.50626666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0062",
+        "survey_no": "117/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Chalasani Lakshmi",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.478803125,
+              16.50626666666667
+            ],
+            [
+              80.478803125,
+              16.508002083333334
+            ],
+            [
+              80.477475,
+              16.508002083333334
+            ],
+            [
+              80.477475,
+              16.50626666666667
+            ],
+            [
+              80.478803125,
+              16.50626666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0063",
+        "survey_no": "118/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Bollineni Naidu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.480365625,
+              16.50626666666667
+            ],
+            [
+              80.480365625,
+              16.508002083333334
+            ],
+            [
+              80.4790375,
+              16.508002083333334
+            ],
+            [
+              80.4790375,
+              16.50626666666667
+            ],
+            [
+              80.480365625,
+              16.50626666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0064",
+        "survey_no": "119/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Kommineni Naidu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48192812500001,
+              16.50626666666667
+            ],
+            [
+              80.48192812500001,
+              16.508002083333334
+            ],
+            [
+              80.48060000000001,
+              16.508002083333334
+            ],
+            [
+              80.48060000000001,
+              16.50626666666667
+            ],
+            [
+              80.48192812500001,
+              16.50626666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0065",
+        "survey_no": "120/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Chalasani Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.483490625,
+              16.50626666666667
+            ],
+            [
+              80.483490625,
+              16.508002083333334
+            ],
+            [
+              80.4821625,
+              16.508002083333334
+            ],
+            [
+              80.4821625,
+              16.50626666666667
+            ],
+            [
+              80.483490625,
+              16.50626666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0066",
+        "survey_no": "121/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Chalasani Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48505312500001,
+              16.50626666666667
+            ],
+            [
+              80.48505312500001,
+              16.508002083333334
+            ],
+            [
+              80.483725,
+              16.508002083333334
+            ],
+            [
+              80.483725,
+              16.50626666666667
+            ],
+            [
+              80.48505312500001,
+              16.50626666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0067",
+        "survey_no": "122/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Nannapaneni Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Unassessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.486615625,
+              16.50626666666667
+            ],
+            [
+              80.486615625,
+              16.508002083333334
+            ],
+            [
+              80.4852875,
+              16.508002083333334
+            ],
+            [
+              80.4852875,
+              16.50626666666667
+            ],
+            [
+              80.486615625,
+              16.50626666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0068",
+        "survey_no": "123/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Commercial Arterial Strip",
+        "property_type": "Commercial",
+        "owner_name": "Nannapaneni Chowdary",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 6.0,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.488178125,
+              16.50626666666667
+            ],
+            [
+              80.488178125,
+              16.508002083333334
+            ],
+            [
+              80.48685,
+              16.508002083333334
+            ],
+            [
+              80.48685,
+              16.50626666666667
+            ],
+            [
+              80.488178125,
+              16.50626666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0069",
+        "survey_no": "124/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Nannapaneni Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.489740625,
+              16.50626666666667
+            ],
+            [
+              80.489740625,
+              16.508002083333334
+            ],
+            [
+              80.4884125,
+              16.508002083333334
+            ],
+            [
+              80.4884125,
+              16.50626666666667
+            ],
+            [
+              80.489740625,
+              16.50626666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0070",
+        "survey_no": "125/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Yalamanchili Krishna",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46942812500001,
+              16.508308333333336
+            ],
+            [
+              80.46942812500001,
+              16.51004375
+            ],
+            [
+              80.4681,
+              16.51004375
+            ],
+            [
+              80.4681,
+              16.508308333333336
+            ],
+            [
+              80.46942812500001,
+              16.508308333333336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0071",
+        "survey_no": "126/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Atluri Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47099062500001,
+              16.508308333333336
+            ],
+            [
+              80.47099062500001,
+              16.51004375
+            ],
+            [
+              80.46966250000001,
+              16.51004375
+            ],
+            [
+              80.46966250000001,
+              16.508308333333336
+            ],
+            [
+              80.47099062500001,
+              16.508308333333336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0072",
+        "survey_no": "127/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Muvva Venkateswara",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.472553125,
+              16.508308333333336
+            ],
+            [
+              80.472553125,
+              16.51004375
+            ],
+            [
+              80.471225,
+              16.51004375
+            ],
+            [
+              80.471225,
+              16.508308333333336
+            ],
+            [
+              80.472553125,
+              16.508308333333336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0073",
+        "survey_no": "128/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Nannapaneni Lakshmi",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47411562500001,
+              16.508308333333336
+            ],
+            [
+              80.47411562500001,
+              16.51004375
+            ],
+            [
+              80.47278750000001,
+              16.51004375
+            ],
+            [
+              80.47278750000001,
+              16.508308333333336
+            ],
+            [
+              80.47411562500001,
+              16.508308333333336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0074",
+        "survey_no": "129/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Chowdary",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.475678125,
+              16.508308333333336
+            ],
+            [
+              80.475678125,
+              16.51004375
+            ],
+            [
+              80.47435,
+              16.51004375
+            ],
+            [
+              80.47435,
+              16.508308333333336
+            ],
+            [
+              80.475678125,
+              16.508308333333336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0075",
+        "survey_no": "130/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Kommineni Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47724062500001,
+              16.508308333333336
+            ],
+            [
+              80.47724062500001,
+              16.51004375
+            ],
+            [
+              80.4759125,
+              16.51004375
+            ],
+            [
+              80.4759125,
+              16.508308333333336
+            ],
+            [
+              80.47724062500001,
+              16.508308333333336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0076",
+        "survey_no": "131/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Zone-3A Judicial Enclave",
+        "property_type": "Institutional",
+        "owner_name": "Chalasani Naidu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 4.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.478803125,
+              16.508308333333336
+            ],
+            [
+              80.478803125,
+              16.51004375
+            ],
+            [
+              80.477475,
+              16.51004375
+            ],
+            [
+              80.477475,
+              16.508308333333336
+            ],
+            [
+              80.478803125,
+              16.508308333333336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0077",
+        "survey_no": "132/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Zone-3A Judicial Enclave",
+        "property_type": "Institutional",
+        "owner_name": "Gogineni Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 4.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.480365625,
+              16.508308333333336
+            ],
+            [
+              80.480365625,
+              16.51004375
+            ],
+            [
+              80.4790375,
+              16.51004375
+            ],
+            [
+              80.4790375,
+              16.508308333333336
+            ],
+            [
+              80.480365625,
+              16.508308333333336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0078",
+        "survey_no": "133/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Zone-3A Judicial Enclave",
+        "property_type": "Institutional",
+        "owner_name": "Yalamanchili Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 4.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48192812500001,
+              16.508308333333336
+            ],
+            [
+              80.48192812500001,
+              16.51004375
+            ],
+            [
+              80.48060000000001,
+              16.51004375
+            ],
+            [
+              80.48060000000001,
+              16.508308333333336
+            ],
+            [
+              80.48192812500001,
+              16.508308333333336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0079",
+        "survey_no": "134/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Atluri Chowdary",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.483490625,
+              16.508308333333336
+            ],
+            [
+              80.483490625,
+              16.51004375
+            ],
+            [
+              80.4821625,
+              16.51004375
+            ],
+            [
+              80.4821625,
+              16.508308333333336
+            ],
+            [
+              80.483490625,
+              16.508308333333336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0080",
+        "survey_no": "135/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Kommineni Krishna",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48505312500001,
+              16.508308333333336
+            ],
+            [
+              80.48505312500001,
+              16.51004375
+            ],
+            [
+              80.483725,
+              16.51004375
+            ],
+            [
+              80.483725,
+              16.508308333333336
+            ],
+            [
+              80.48505312500001,
+              16.508308333333336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0081",
+        "survey_no": "136/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Nannapaneni Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.486615625,
+              16.508308333333336
+            ],
+            [
+              80.486615625,
+              16.51004375
+            ],
+            [
+              80.4852875,
+              16.51004375
+            ],
+            [
+              80.4852875,
+              16.508308333333336
+            ],
+            [
+              80.486615625,
+              16.508308333333336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0082",
+        "survey_no": "137/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Gogineni Krishna",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.488178125,
+              16.508308333333336
+            ],
+            [
+              80.488178125,
+              16.51004375
+            ],
+            [
+              80.48685,
+              16.51004375
+            ],
+            [
+              80.48685,
+              16.508308333333336
+            ],
+            [
+              80.488178125,
+              16.508308333333336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0083",
+        "survey_no": "138/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Atluri Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.489740625,
+              16.508308333333336
+            ],
+            [
+              80.489740625,
+              16.51004375
+            ],
+            [
+              80.4884125,
+              16.51004375
+            ],
+            [
+              80.4884125,
+              16.508308333333336
+            ],
+            [
+              80.489740625,
+              16.508308333333336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0084",
+        "survey_no": "139/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-1",
+        "property_type": "Residential",
+        "owner_name": "Muvva Venkateswara",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46942812500001,
+              16.51035
+            ],
+            [
+              80.46942812500001,
+              16.512085416666665
+            ],
+            [
+              80.4681,
+              16.512085416666665
+            ],
+            [
+              80.4681,
+              16.51035
+            ],
+            [
+              80.46942812500001,
+              16.51035
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0085",
+        "survey_no": "140/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47099062500001,
+              16.51035
+            ],
+            [
+              80.47099062500001,
+              16.512085416666665
+            ],
+            [
+              80.46966250000001,
+              16.512085416666665
+            ],
+            [
+              80.46966250000001,
+              16.51035
+            ],
+            [
+              80.47099062500001,
+              16.51035
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0086",
+        "survey_no": "141/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Nannapaneni Naidu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.472553125,
+              16.51035
+            ],
+            [
+              80.472553125,
+              16.512085416666665
+            ],
+            [
+              80.471225,
+              16.512085416666665
+            ],
+            [
+              80.471225,
+              16.51035
+            ],
+            [
+              80.472553125,
+              16.51035
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0087",
+        "survey_no": "142/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Kommineni Venkateswara",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47411562500001,
+              16.51035
+            ],
+            [
+              80.47411562500001,
+              16.512085416666665
+            ],
+            [
+              80.47278750000001,
+              16.512085416666665
+            ],
+            [
+              80.47278750000001,
+              16.51035
+            ],
+            [
+              80.47411562500001,
+              16.51035
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0088",
+        "survey_no": "143/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Babu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.475678125,
+              16.51035
+            ],
+            [
+              80.475678125,
+              16.512085416666665
+            ],
+            [
+              80.47435,
+              16.512085416666665
+            ],
+            [
+              80.47435,
+              16.51035
+            ],
+            [
+              80.475678125,
+              16.51035
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0089",
+        "survey_no": "144/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Unassessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47724062500001,
+              16.51035
+            ],
+            [
+              80.47724062500001,
+              16.512085416666665
+            ],
+            [
+              80.4759125,
+              16.512085416666665
+            ],
+            [
+              80.4759125,
+              16.51035
+            ],
+            [
+              80.47724062500001,
+              16.51035
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0090",
+        "survey_no": "100/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Zone-3A Judicial Enclave",
+        "property_type": "Institutional",
+        "owner_name": "Atluri Babu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 4.5,
+        "assessment_status": "Unassessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.478803125,
+              16.51035
+            ],
+            [
+              80.478803125,
+              16.512085416666665
+            ],
+            [
+              80.477475,
+              16.512085416666665
+            ],
+            [
+              80.477475,
+              16.51035
+            ],
+            [
+              80.478803125,
+              16.51035
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0091",
+        "survey_no": "101/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Zone-3A Judicial Enclave",
+        "property_type": "Institutional",
+        "owner_name": "Chalasani Lakshmi",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 4.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.480365625,
+              16.51035
+            ],
+            [
+              80.480365625,
+              16.512085416666665
+            ],
+            [
+              80.4790375,
+              16.512085416666665
+            ],
+            [
+              80.4790375,
+              16.51035
+            ],
+            [
+              80.480365625,
+              16.51035
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0092",
+        "survey_no": "102/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "Zone-3A Judicial Enclave",
+        "property_type": "Institutional",
+        "owner_name": "Yalamanchili Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 4.5,
+        "assessment_status": "Unassessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48192812500001,
+              16.51035
+            ],
+            [
+              80.48192812500001,
+              16.512085416666665
+            ],
+            [
+              80.48060000000001,
+              16.512085416666665
+            ],
+            [
+              80.48060000000001,
+              16.51035
+            ],
+            [
+              80.48192812500001,
+              16.51035
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0093",
+        "survey_no": "103/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Nannapaneni Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.483490625,
+              16.51035
+            ],
+            [
+              80.483490625,
+              16.512085416666665
+            ],
+            [
+              80.4821625,
+              16.512085416666665
+            ],
+            [
+              80.4821625,
+              16.51035
+            ],
+            [
+              80.483490625,
+              16.51035
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0094",
+        "survey_no": "104/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Kommineni Chowdary",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48505312500001,
+              16.51035
+            ],
+            [
+              80.48505312500001,
+              16.512085416666665
+            ],
+            [
+              80.483725,
+              16.512085416666665
+            ],
+            [
+              80.483725,
+              16.51035
+            ],
+            [
+              80.48505312500001,
+              16.51035
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0095",
+        "survey_no": "105/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Atluri Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.486615625,
+              16.51035
+            ],
+            [
+              80.486615625,
+              16.512085416666665
+            ],
+            [
+              80.4852875,
+              16.512085416666665
+            ],
+            [
+              80.4852875,
+              16.51035
+            ],
+            [
+              80.486615625,
+              16.51035
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0096",
+        "survey_no": "106/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Yalamanchili Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.488178125,
+              16.51035
+            ],
+            [
+              80.488178125,
+              16.512085416666665
+            ],
+            [
+              80.48685,
+              16.512085416666665
+            ],
+            [
+              80.48685,
+              16.51035
+            ],
+            [
+              80.488178125,
+              16.51035
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0097",
+        "survey_no": "107/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Bollineni Naidu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.489740625,
+              16.51035
+            ],
+            [
+              80.489740625,
+              16.512085416666665
+            ],
+            [
+              80.4884125,
+              16.512085416666665
+            ],
+            [
+              80.4884125,
+              16.51035
+            ],
+            [
+              80.489740625,
+              16.51035
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0098",
+        "survey_no": "108/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Muvva Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46942812500001,
+              16.512391666666666
+            ],
+            [
+              80.46942812500001,
+              16.51412708333333
+            ],
+            [
+              80.4681,
+              16.51412708333333
+            ],
+            [
+              80.4681,
+              16.512391666666666
+            ],
+            [
+              80.46942812500001,
+              16.512391666666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0099",
+        "survey_no": "109/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Bollineni Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47099062500001,
+              16.512391666666666
+            ],
+            [
+              80.47099062500001,
+              16.51412708333333
+            ],
+            [
+              80.46966250000001,
+              16.51412708333333
+            ],
+            [
+              80.46966250000001,
+              16.512391666666666
+            ],
+            [
+              80.47099062500001,
+              16.512391666666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0100",
+        "survey_no": "110/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Atluri Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.472553125,
+              16.512391666666666
+            ],
+            [
+              80.472553125,
+              16.51412708333333
+            ],
+            [
+              80.471225,
+              16.51412708333333
+            ],
+            [
+              80.471225,
+              16.512391666666666
+            ],
+            [
+              80.472553125,
+              16.512391666666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0101",
+        "survey_no": "111/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Kommineni Chowdary",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47411562500001,
+              16.512391666666666
+            ],
+            [
+              80.47411562500001,
+              16.51412708333333
+            ],
+            [
+              80.47278750000001,
+              16.51412708333333
+            ],
+            [
+              80.47278750000001,
+              16.512391666666666
+            ],
+            [
+              80.47411562500001,
+              16.512391666666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0102",
+        "survey_no": "112/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Kommineni Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Unassessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.475678125,
+              16.512391666666666
+            ],
+            [
+              80.475678125,
+              16.51412708333333
+            ],
+            [
+              80.47435,
+              16.51412708333333
+            ],
+            [
+              80.47435,
+              16.512391666666666
+            ],
+            [
+              80.475678125,
+              16.512391666666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0103",
+        "survey_no": "113/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Venkateswara",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47724062500001,
+              16.512391666666666
+            ],
+            [
+              80.47724062500001,
+              16.51412708333333
+            ],
+            [
+              80.4759125,
+              16.51412708333333
+            ],
+            [
+              80.4759125,
+              16.512391666666666
+            ],
+            [
+              80.47724062500001,
+              16.512391666666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0104",
+        "survey_no": "114/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Bollineni Lakshmi",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.478803125,
+              16.512391666666666
+            ],
+            [
+              80.478803125,
+              16.51412708333333
+            ],
+            [
+              80.477475,
+              16.51412708333333
+            ],
+            [
+              80.477475,
+              16.512391666666666
+            ],
+            [
+              80.478803125,
+              16.512391666666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0105",
+        "survey_no": "115/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Venkateswara",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.480365625,
+              16.512391666666666
+            ],
+            [
+              80.480365625,
+              16.51412708333333
+            ],
+            [
+              80.4790375,
+              16.51412708333333
+            ],
+            [
+              80.4790375,
+              16.512391666666666
+            ],
+            [
+              80.480365625,
+              16.512391666666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0106",
+        "survey_no": "116/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Bollineni Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48192812500001,
+              16.512391666666666
+            ],
+            [
+              80.48192812500001,
+              16.51412708333333
+            ],
+            [
+              80.48060000000001,
+              16.51412708333333
+            ],
+            [
+              80.48060000000001,
+              16.512391666666666
+            ],
+            [
+              80.48192812500001,
+              16.512391666666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0107",
+        "survey_no": "117/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Gogineni Chowdary",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.483490625,
+              16.512391666666666
+            ],
+            [
+              80.483490625,
+              16.51412708333333
+            ],
+            [
+              80.4821625,
+              16.51412708333333
+            ],
+            [
+              80.4821625,
+              16.512391666666666
+            ],
+            [
+              80.483490625,
+              16.512391666666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0108",
+        "survey_no": "118/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Nannapaneni Chowdary",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48505312500001,
+              16.512391666666666
+            ],
+            [
+              80.48505312500001,
+              16.51412708333333
+            ],
+            [
+              80.483725,
+              16.51412708333333
+            ],
+            [
+              80.483725,
+              16.512391666666666
+            ],
+            [
+              80.48505312500001,
+              16.512391666666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0109",
+        "survey_no": "119/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Muvva Chowdary",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.486615625,
+              16.512391666666666
+            ],
+            [
+              80.486615625,
+              16.51412708333333
+            ],
+            [
+              80.4852875,
+              16.51412708333333
+            ],
+            [
+              80.4852875,
+              16.512391666666666
+            ],
+            [
+              80.486615625,
+              16.512391666666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0110",
+        "survey_no": "120/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Muvva Naidu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.488178125,
+              16.512391666666666
+            ],
+            [
+              80.488178125,
+              16.51412708333333
+            ],
+            [
+              80.48685,
+              16.51412708333333
+            ],
+            [
+              80.48685,
+              16.512391666666666
+            ],
+            [
+              80.488178125,
+              16.512391666666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0111",
+        "survey_no": "121/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Atluri Venkateswara",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.489740625,
+              16.512391666666666
+            ],
+            [
+              80.489740625,
+              16.51412708333333
+            ],
+            [
+              80.4884125,
+              16.51412708333333
+            ],
+            [
+              80.4884125,
+              16.512391666666666
+            ],
+            [
+              80.489740625,
+              16.512391666666666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0112",
+        "survey_no": "122/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Muvva Babu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46942812500001,
+              16.514433333333333
+            ],
+            [
+              80.46942812500001,
+              16.51616875
+            ],
+            [
+              80.4681,
+              16.51616875
+            ],
+            [
+              80.4681,
+              16.514433333333333
+            ],
+            [
+              80.46942812500001,
+              16.514433333333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0113",
+        "survey_no": "123/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Gogineni Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Unassessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47099062500001,
+              16.514433333333333
+            ],
+            [
+              80.47099062500001,
+              16.51616875
+            ],
+            [
+              80.46966250000001,
+              16.51616875
+            ],
+            [
+              80.46966250000001,
+              16.514433333333333
+            ],
+            [
+              80.47099062500001,
+              16.514433333333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0114",
+        "survey_no": "124/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Bollineni Chowdary",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.472553125,
+              16.514433333333333
+            ],
+            [
+              80.472553125,
+              16.51616875
+            ],
+            [
+              80.471225,
+              16.51616875
+            ],
+            [
+              80.471225,
+              16.514433333333333
+            ],
+            [
+              80.472553125,
+              16.514433333333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0115",
+        "survey_no": "125/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Babu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47411562500001,
+              16.514433333333333
+            ],
+            [
+              80.47411562500001,
+              16.51616875
+            ],
+            [
+              80.47278750000001,
+              16.51616875
+            ],
+            [
+              80.47278750000001,
+              16.514433333333333
+            ],
+            [
+              80.47411562500001,
+              16.514433333333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0116",
+        "survey_no": "126/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Kommineni Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.475678125,
+              16.514433333333333
+            ],
+            [
+              80.475678125,
+              16.51616875
+            ],
+            [
+              80.47435,
+              16.51616875
+            ],
+            [
+              80.47435,
+              16.514433333333333
+            ],
+            [
+              80.475678125,
+              16.514433333333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0117",
+        "survey_no": "127/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Atluri Krishna",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47724062500001,
+              16.514433333333333
+            ],
+            [
+              80.47724062500001,
+              16.51616875
+            ],
+            [
+              80.4759125,
+              16.51616875
+            ],
+            [
+              80.4759125,
+              16.514433333333333
+            ],
+            [
+              80.47724062500001,
+              16.514433333333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0118",
+        "survey_no": "128/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Bollineni Naidu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.478803125,
+              16.514433333333333
+            ],
+            [
+              80.478803125,
+              16.51616875
+            ],
+            [
+              80.477475,
+              16.51616875
+            ],
+            [
+              80.477475,
+              16.514433333333333
+            ],
+            [
+              80.478803125,
+              16.514433333333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0119",
+        "survey_no": "129/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Muvva Naidu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.480365625,
+              16.514433333333333
+            ],
+            [
+              80.480365625,
+              16.51616875
+            ],
+            [
+              80.4790375,
+              16.51616875
+            ],
+            [
+              80.4790375,
+              16.514433333333333
+            ],
+            [
+              80.480365625,
+              16.514433333333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0120",
+        "survey_no": "130/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48192812500001,
+              16.514433333333333
+            ],
+            [
+              80.48192812500001,
+              16.51616875
+            ],
+            [
+              80.48060000000001,
+              16.51616875
+            ],
+            [
+              80.48060000000001,
+              16.514433333333333
+            ],
+            [
+              80.48192812500001,
+              16.514433333333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0121",
+        "survey_no": "131/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Kommineni Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.483490625,
+              16.514433333333333
+            ],
+            [
+              80.483490625,
+              16.51616875
+            ],
+            [
+              80.4821625,
+              16.51616875
+            ],
+            [
+              80.4821625,
+              16.514433333333333
+            ],
+            [
+              80.483490625,
+              16.514433333333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0122",
+        "survey_no": "132/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Gogineni Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48505312500001,
+              16.514433333333333
+            ],
+            [
+              80.48505312500001,
+              16.51616875
+            ],
+            [
+              80.483725,
+              16.51616875
+            ],
+            [
+              80.483725,
+              16.514433333333333
+            ],
+            [
+              80.48505312500001,
+              16.514433333333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0123",
+        "survey_no": "133/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Atluri Krishna",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.486615625,
+              16.514433333333333
+            ],
+            [
+              80.486615625,
+              16.51616875
+            ],
+            [
+              80.4852875,
+              16.51616875
+            ],
+            [
+              80.4852875,
+              16.514433333333333
+            ],
+            [
+              80.486615625,
+              16.514433333333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0124",
+        "survey_no": "134/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Babu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.488178125,
+              16.514433333333333
+            ],
+            [
+              80.488178125,
+              16.51616875
+            ],
+            [
+              80.48685,
+              16.51616875
+            ],
+            [
+              80.48685,
+              16.514433333333333
+            ],
+            [
+              80.488178125,
+              16.514433333333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0125",
+        "survey_no": "135/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Kommineni Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.489740625,
+              16.514433333333333
+            ],
+            [
+              80.489740625,
+              16.51616875
+            ],
+            [
+              80.4884125,
+              16.51616875
+            ],
+            [
+              80.4884125,
+              16.514433333333333
+            ],
+            [
+              80.489740625,
+              16.514433333333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0126",
+        "survey_no": "136/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Muvva Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46942812500001,
+              16.516475
+            ],
+            [
+              80.46942812500001,
+              16.518210416666665
+            ],
+            [
+              80.4681,
+              16.518210416666665
+            ],
+            [
+              80.4681,
+              16.516475
+            ],
+            [
+              80.46942812500001,
+              16.516475
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0127",
+        "survey_no": "137/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Naidu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47099062500001,
+              16.516475
+            ],
+            [
+              80.47099062500001,
+              16.518210416666665
+            ],
+            [
+              80.46966250000001,
+              16.518210416666665
+            ],
+            [
+              80.46966250000001,
+              16.516475
+            ],
+            [
+              80.47099062500001,
+              16.516475
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0128",
+        "survey_no": "138/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Yalamanchili Venkateswara",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.472553125,
+              16.516475
+            ],
+            [
+              80.472553125,
+              16.518210416666665
+            ],
+            [
+              80.471225,
+              16.518210416666665
+            ],
+            [
+              80.471225,
+              16.516475
+            ],
+            [
+              80.472553125,
+              16.516475
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0129",
+        "survey_no": "139/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Muvva Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47411562500001,
+              16.516475
+            ],
+            [
+              80.47411562500001,
+              16.518210416666665
+            ],
+            [
+              80.47278750000001,
+              16.518210416666665
+            ],
+            [
+              80.47278750000001,
+              16.516475
+            ],
+            [
+              80.47411562500001,
+              16.516475
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0130",
+        "survey_no": "140/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Gogineni Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.475678125,
+              16.516475
+            ],
+            [
+              80.475678125,
+              16.518210416666665
+            ],
+            [
+              80.47435,
+              16.518210416666665
+            ],
+            [
+              80.47435,
+              16.516475
+            ],
+            [
+              80.475678125,
+              16.516475
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0131",
+        "survey_no": "141/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Lakshmi",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47724062500001,
+              16.516475
+            ],
+            [
+              80.47724062500001,
+              16.518210416666665
+            ],
+            [
+              80.4759125,
+              16.518210416666665
+            ],
+            [
+              80.4759125,
+              16.516475
+            ],
+            [
+              80.47724062500001,
+              16.516475
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0132",
+        "survey_no": "142/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Atluri Chowdary",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.478803125,
+              16.516475
+            ],
+            [
+              80.478803125,
+              16.518210416666665
+            ],
+            [
+              80.477475,
+              16.518210416666665
+            ],
+            [
+              80.477475,
+              16.516475
+            ],
+            [
+              80.478803125,
+              16.516475
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0133",
+        "survey_no": "143/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Muvva Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.480365625,
+              16.516475
+            ],
+            [
+              80.480365625,
+              16.518210416666665
+            ],
+            [
+              80.4790375,
+              16.518210416666665
+            ],
+            [
+              80.4790375,
+              16.516475
+            ],
+            [
+              80.480365625,
+              16.516475
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0134",
+        "survey_no": "144/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Kommineni Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48192812500001,
+              16.516475
+            ],
+            [
+              80.48192812500001,
+              16.518210416666665
+            ],
+            [
+              80.48060000000001,
+              16.518210416666665
+            ],
+            [
+              80.48060000000001,
+              16.516475
+            ],
+            [
+              80.48192812500001,
+              16.516475
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0135",
+        "survey_no": "100/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Yalamanchili Chowdary",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.483490625,
+              16.516475
+            ],
+            [
+              80.483490625,
+              16.518210416666665
+            ],
+            [
+              80.4821625,
+              16.518210416666665
+            ],
+            [
+              80.4821625,
+              16.516475
+            ],
+            [
+              80.483490625,
+              16.516475
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0136",
+        "survey_no": "101/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Yalamanchili Lakshmi",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48505312500001,
+              16.516475
+            ],
+            [
+              80.48505312500001,
+              16.518210416666665
+            ],
+            [
+              80.483725,
+              16.518210416666665
+            ],
+            [
+              80.483725,
+              16.516475
+            ],
+            [
+              80.48505312500001,
+              16.516475
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0137",
+        "survey_no": "102/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Yalamanchili Krishna",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.486615625,
+              16.516475
+            ],
+            [
+              80.486615625,
+              16.518210416666665
+            ],
+            [
+              80.4852875,
+              16.518210416666665
+            ],
+            [
+              80.4852875,
+              16.516475
+            ],
+            [
+              80.486615625,
+              16.516475
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0138",
+        "survey_no": "103/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Yalamanchili Lakshmi",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.488178125,
+              16.516475
+            ],
+            [
+              80.488178125,
+              16.518210416666665
+            ],
+            [
+              80.48685,
+              16.518210416666665
+            ],
+            [
+              80.48685,
+              16.516475
+            ],
+            [
+              80.488178125,
+              16.516475
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0139",
+        "survey_no": "104/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Atluri Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Unassessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.489740625,
+              16.516475
+            ],
+            [
+              80.489740625,
+              16.518210416666665
+            ],
+            [
+              80.4884125,
+              16.518210416666665
+            ],
+            [
+              80.4884125,
+              16.516475
+            ],
+            [
+              80.489740625,
+              16.516475
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0140",
+        "survey_no": "105/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Kommineni Krishna",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46942812500001,
+              16.518516666666667
+            ],
+            [
+              80.46942812500001,
+              16.520252083333332
+            ],
+            [
+              80.4681,
+              16.520252083333332
+            ],
+            [
+              80.4681,
+              16.518516666666667
+            ],
+            [
+              80.46942812500001,
+              16.518516666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0141",
+        "survey_no": "106/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Bollineni Venkateswara",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47099062500001,
+              16.518516666666667
+            ],
+            [
+              80.47099062500001,
+              16.520252083333332
+            ],
+            [
+              80.46966250000001,
+              16.520252083333332
+            ],
+            [
+              80.46966250000001,
+              16.518516666666667
+            ],
+            [
+              80.47099062500001,
+              16.518516666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0142",
+        "survey_no": "107/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Atluri Venkateswara",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.472553125,
+              16.518516666666667
+            ],
+            [
+              80.472553125,
+              16.520252083333332
+            ],
+            [
+              80.471225,
+              16.520252083333332
+            ],
+            [
+              80.471225,
+              16.518516666666667
+            ],
+            [
+              80.472553125,
+              16.518516666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0143",
+        "survey_no": "108/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Yalamanchili Naidu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Unassessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47411562500001,
+              16.518516666666667
+            ],
+            [
+              80.47411562500001,
+              16.520252083333332
+            ],
+            [
+              80.47278750000001,
+              16.520252083333332
+            ],
+            [
+              80.47278750000001,
+              16.518516666666667
+            ],
+            [
+              80.47411562500001,
+              16.518516666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0144",
+        "survey_no": "109/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Gogineni Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.475678125,
+              16.518516666666667
+            ],
+            [
+              80.475678125,
+              16.520252083333332
+            ],
+            [
+              80.47435,
+              16.520252083333332
+            ],
+            [
+              80.47435,
+              16.518516666666667
+            ],
+            [
+              80.475678125,
+              16.518516666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0145",
+        "survey_no": "110/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47724062500001,
+              16.518516666666667
+            ],
+            [
+              80.47724062500001,
+              16.520252083333332
+            ],
+            [
+              80.4759125,
+              16.520252083333332
+            ],
+            [
+              80.4759125,
+              16.518516666666667
+            ],
+            [
+              80.47724062500001,
+              16.518516666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0146",
+        "survey_no": "111/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Atluri Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.478803125,
+              16.518516666666667
+            ],
+            [
+              80.478803125,
+              16.520252083333332
+            ],
+            [
+              80.477475,
+              16.520252083333332
+            ],
+            [
+              80.477475,
+              16.518516666666667
+            ],
+            [
+              80.478803125,
+              16.518516666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0147",
+        "survey_no": "112/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Nannapaneni Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.480365625,
+              16.518516666666667
+            ],
+            [
+              80.480365625,
+              16.520252083333332
+            ],
+            [
+              80.4790375,
+              16.520252083333332
+            ],
+            [
+              80.4790375,
+              16.518516666666667
+            ],
+            [
+              80.480365625,
+              16.518516666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0148",
+        "survey_no": "113/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Atluri Venkateswara",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48192812500001,
+              16.518516666666667
+            ],
+            [
+              80.48192812500001,
+              16.520252083333332
+            ],
+            [
+              80.48060000000001,
+              16.520252083333332
+            ],
+            [
+              80.48060000000001,
+              16.518516666666667
+            ],
+            [
+              80.48192812500001,
+              16.518516666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0149",
+        "survey_no": "114/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Muvva Chowdary",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.483490625,
+              16.518516666666667
+            ],
+            [
+              80.483490625,
+              16.520252083333332
+            ],
+            [
+              80.4821625,
+              16.520252083333332
+            ],
+            [
+              80.4821625,
+              16.518516666666667
+            ],
+            [
+              80.483490625,
+              16.518516666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0150",
+        "survey_no": "115/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Nannapaneni Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.48505312500001,
+              16.518516666666667
+            ],
+            [
+              80.48505312500001,
+              16.520252083333332
+            ],
+            [
+              80.483725,
+              16.520252083333332
+            ],
+            [
+              80.483725,
+              16.518516666666667
+            ],
+            [
+              80.48505312500001,
+              16.518516666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0151",
+        "survey_no": "116/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Bollineni Naidu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.486615625,
+              16.518516666666667
+            ],
+            [
+              80.486615625,
+              16.520252083333332
+            ],
+            [
+              80.4852875,
+              16.520252083333332
+            ],
+            [
+              80.4852875,
+              16.518516666666667
+            ],
+            [
+              80.486615625,
+              16.518516666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0152",
+        "survey_no": "117/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.488178125,
+              16.518516666666667
+            ],
+            [
+              80.488178125,
+              16.520252083333332
+            ],
+            [
+              80.48685,
+              16.520252083333332
+            ],
+            [
+              80.48685,
+              16.518516666666667
+            ],
+            [
+              80.488178125,
+              16.518516666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0153",
+        "survey_no": "118/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Nannapaneni Naidu",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.489740625,
+              16.518516666666667
+            ],
+            [
+              80.489740625,
+              16.520252083333332
+            ],
+            [
+              80.4884125,
+              16.520252083333332
+            ],
+            [
+              80.4884125,
+              16.518516666666667
+            ],
+            [
+              80.489740625,
+              16.518516666666667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0154",
+        "survey_no": "119/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Atluri Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.46942812500001,
+              16.520558333333334
+            ],
+            [
+              80.46942812500001,
+              16.52229375
+            ],
+            [
+              80.4681,
+              16.52229375
+            ],
+            [
+              80.4681,
+              16.520558333333334
+            ],
+            [
+              80.46942812500001,
+              16.520558333333334
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0155",
+        "survey_no": "120/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Atluri Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47099062500001,
+              16.520558333333334
+            ],
+            [
+              80.47099062500001,
+              16.52229375
+            ],
+            [
+              80.46966250000001,
+              16.52229375
+            ],
+            [
+              80.46966250000001,
+              16.520558333333334
+            ],
+            [
+              80.47099062500001,
+              16.520558333333334
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0156",
+        "survey_no": "121/2",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Atluri Rao",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.472553125,
+              16.520558333333334
+            ],
+            [
+              80.472553125,
+              16.52229375
+            ],
+            [
+              80.471225,
+              16.52229375
+            ],
+            [
+              80.471225,
+              16.520558333333334
+            ],
+            [
+              80.472553125,
+              16.520558333333334
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0157",
+        "survey_no": "122/3",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Atluri Venkateswara",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47411562500001,
+              16.520558333333334
+            ],
+            [
+              80.47411562500001,
+              16.52229375
+            ],
+            [
+              80.47278750000001,
+              16.52229375
+            ],
+            [
+              80.47278750000001,
+              16.520558333333334
+            ],
+            [
+              80.47411562500001,
+              16.520558333333334
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0158",
+        "survey_no": "123/4",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Yalamanchili Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.475678125,
+              16.520558333333334
+            ],
+            [
+              80.475678125,
+              16.52229375
+            ],
+            [
+              80.47435,
+              16.52229375
+            ],
+            [
+              80.47435,
+              16.520558333333334
+            ],
+            [
+              80.475678125,
+              16.520558333333334
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0159",
+        "survey_no": "124/5",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Chalasani Srinivas",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Assessed",
+        "registration_year": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.47724062500001,
+              16.520558333333334
+            ],
+            [
+              80.47724062500001,
+              16.52229375
+            ],
+            [
+              80.4759125,
+              16.52229375
+            ],
+            [
+              80.4759125,
+              16.520558333333334
+            ],
+            [
+              80.47724062500001,
+              16.520558333333334
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "APCRDA-U18-LPS-0160",
+        "survey_no": "125/1",
+        "lps_unit": "Unit-18 (Nelapadu)",
+        "zone": "LPS Residential Sector-2",
+        "property_type": "Residential",
+        "owner_name": "Bollineni Prasad",
+        "plot_area_sqm": 2633.68,
+        "base_rate_sqft_inr": 2.5,
+        "assessment_status": "Unassessed",
+        "registration_year": 2022
+      }
+    }
+  ]
+}

@@ -1,48 +1,21 @@
-# ==============================================================================
-# SplatTax AI - Core Dependencies
-# Compatible with Python 3.10+ and Google Colab (Free NVIDIA T4 GPU)
-# ==============================================================================
+# SplatTax AI - Streamlit Cloud Compatible Dependencies
+# Lightweight version without GPU/torch/SAM (not needed for dashboard)
 
-# Core Scientific & Data Stack
+# Core Data Stack
 numpy>=1.24.0,<2.0.0
-scipy>=1.11.0
 pandas>=2.1.0
-polars>=0.20.0
 scikit-learn>=1.3.0
 xgboost>=2.0.0
 
-# Geospatial Vector & Raster Stack
+# Geospatial Stack
 shapely>=2.0.2
 geopandas>=0.14.2
 pyproj>=3.6.1
-rasterio>=1.3.9
-fiona>=1.9.5
-rioxarray>=0.15.0
-xarray>=2023.12.0
 
-# Earth Engine & Remote Sensing
-earthengine-api>=0.1.385
-geemap>=0.30.0
-
-# Foundation Segmentation Models
-segment-geospatial>=0.10.0
-segment-anything>=1.0
-torch>=2.1.0
-torchvision>=0.16.0
-
-# 3D Gaussian Splatting & Point Cloud Analytics
-open3d>=0.18.0
-plyfile>=1.0.3
-
-# Interactive WebGIS & Visualization
-streamlit>=1.31.0
-leafmap>=0.31.0
+# WebGIS & Visualization
+streamlit>=1.35.0
 plotly>=5.18.0
 folium>=0.15.1
-matplotlib>=3.8.0
 
-# PDF Notice Generation & Utility
+# PDF Generation
 reportlab>=4.0.9
-tqdm>=4.66.0
-rich>=13.7.0
-python-dotenv>=1.0.0
